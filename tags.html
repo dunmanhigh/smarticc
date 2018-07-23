@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% comment %} 
+site.tags is a hash: {"tag_name": \[...posts\], "another tag name": ...} 
+tag[0] refers to the key, "tag_name"; tag[1] refers to the value, [...posts]
+{% endcomment %}
+
+{% for tag in site.tags %}
+
+<div>
+    <h1>Posts in {{ tag[0] }}</h1>
+    <ul>
+        {% for post in tag[1] %}
+            <li><a href="{{ post.url | relative_url }}">{{ post.title }}, posted on {{ post.date | date_to_string }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}

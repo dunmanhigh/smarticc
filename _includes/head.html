@@ -1,0 +1,16 @@
+<head>
+  <title>
+    {% if page.layout == "post" %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  <meta charset="UTF-8">
+  <!-- styles from CDNs -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+
+  <!-- styles from /assets/style -->
+  <link rel="stylesheet" href="{{ '/assets/style/monokai.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style/main.css' | relative_url }}">
+</head>

@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h2>All {{ page.arg }}s:</h2>
+{% for post in site.categories[page.arg] %}
+    <a href="{{ post.url | relative_url }}"><h1>{{ post.title }}</h1></a>
+{% endfor %}
