@@ -5,7 +5,7 @@ The blog is made with Jekyll, a blogging framework that builds _everything_ into
 **N.B.** If you see a placeholder in a code snippet with (round) brackets around them, replace the whole placeholder, including the brackets. 
 
 ## Setup
-To see your changes live, fork this repository, push whatever changes you have and go to <your github username>.github.io/<whatever this repository ends up being named>. Whenever you want to preview your changes, push them to your fork and look at the page agian.
+To see your changes live, fork this repository, push whatever changes you have and go to (your github username).github.io/(whatever this repository ends up being named). Whenever you want to preview your changes, push them to your fork and look at the page agian.
 
 Alternatively, you can set it up on your own machine. You'll need to install Ruby as well as rubygems, which usually come together. You'll also need bundler, which you can get with 
 
