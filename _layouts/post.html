@@ -11,8 +11,9 @@ layout: default
         {{ page.title }}
       </h1>
       <p class="subtitle has-text-grey has-text-centered">
-        {% if post.author != "" %}
+        {% if page.author %}
             by {{ page.author }}
+          <br>
         {% endif %}
         {{ page.date | date_to_string }}
       </p>
