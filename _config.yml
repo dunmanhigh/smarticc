@@ -57,3 +57,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - HACKING.md
+  - README.md
+  - LICENSE
