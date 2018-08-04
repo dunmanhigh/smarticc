@@ -10,7 +10,11 @@ With increasing tracking by websites in this years, browsing anonymously online 
 
 ## But firstly, why is it so important to stay private online?
 
+![][image-1]
+
 Have you ever went to a website, and there’s a popup asking you to “accept cookies”? These cookies are there to “improve your experience”, but in essence they are there to track your online behaviour and collect data on you. Some companies even sell your data to other companies for money. Does this sound scary to you? Then read on to find out!
+
+![][image-2]
 
 # Using DuckDuckGo: 
 DuckDuckGo is an Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo distinguishes itself by not profiling its users and deliberately showing all users the same search results for a given search term, and emphasises on returning the best results rather than the most results, generating the results from over 400 individual sources. Some of the differences between DuckDuckGo and a popular search engine such as Google are as such:
@@ -23,6 +27,8 @@ DuckDuckGo is an Internet search engine that emphasizes protecting searchers' pr
 | Creates “filter bubbles” (the way they track you to personalise your searches) even if you are logged out | Has a "no filter bubble" policy |
 | Ads are intrusive and you may click on one by accident | All ads are at the top of the search results in one line |
 
+![][image-3]
+
 # Using Tor
 
 Tor is software for enabling anonymous communication; the difference between this and DuckDuckGo in terms of use is that it allows users to access special, hidden networks on the dark web. These networks end with a .onion, and cannot be accessed with regular search engines (requires Tor browser).
@@ -32,3 +38,7 @@ Now, granted some people take the fact that potential criminals are given the po
 
 The above measures are not *the only way* to stay private, but they are methods that you can easily adopt from the get-go, like changing a search engine or a browser. However, if you would like to learn more about how to stay private online, you can go to [this link] (http://bit.ly/tor_vpn) to learn more about browsing anonymously 
 Or, if you would like to know what a IP address is, you can [visit here] (http://bit.ly/2AAdzSc) to find out what IP addresses are for!
+
+[image-1]: {{ "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-1.jpeg" | absolute_url }}
+[image-2]: {{ "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-2.jpeg" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-3.png" | absolute_url }}
