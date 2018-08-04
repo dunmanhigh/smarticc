@@ -1,6 +1,6 @@
 # Smart DHS
-> (will be) live at [dunmanhigh.github.io/smarticc](https://dunmanhigh.github.io/smarticc) 
+> live at [dunmanhigh.github.io/smarticc](https://dunmanhigh.github.io/smarticc) 
 
-If you want to contribute to this website, please read HACKING.md for instructions.
+If you'd like to contribute to this website, even if you're only writing posts, please read HACKING.md for instructions.
 
 By Dunman High School Infocomm Club

@@ -1,7 +1,7 @@
 ---
 title: What is Artificial Intelligence?
 categories: article
-tags: AI
+tags: ai
 author: Jake Kee Chong Han, He Ziqi, Lam Yik Ting
 ---
 

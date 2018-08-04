@@ -36,9 +36,11 @@ To add a new post, just place a new `.md` file in the `_posts` directory with th
 ---
 title: (title of your post)
 categories: (article | tutorial | something else, one only)
-tags: (any number of tags separated by spaces)
+tags: (any number of lowercase tags separated by spaces)
 ---
 ```
+
+Please check the tags page on the site to look for any existing tags suitable for your post. If there aren't any, you can add your own, but try to do this as a last resort; a tag that's only used by one article kinda defeats the purpose of the tag, right? idk
 
 ## Messing with headers, footers and stylesheets
 You can look at `_layouts/default.html` to get a general sense of how pages on the site are laid out. In essense, for every page using the `default` layout:

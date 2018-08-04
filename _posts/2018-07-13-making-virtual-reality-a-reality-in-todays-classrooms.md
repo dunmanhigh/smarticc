@@ -1,7 +1,7 @@
 ---
 title: Making Virtual Reality a Reality in Today’s Classrooms
 categories: article
-tags: VR
+tags: vr
 author: Leonard Lee-Ralph Lim Yue Tai, Chou Bi Yu, Loh Jun Kai
 ---
 

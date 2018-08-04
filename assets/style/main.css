@@ -1,6 +1,7 @@
-/*=============================================
-=            Put main styles here.            =
-=============================================*/
+/*========================================================
+=            Place miscellaneous styles here.            =
+========================================================*/
+
 .post-list__content {
     color: black;
 }
@@ -36,4 +37,8 @@ article.post:last-child {
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+}
+
+.post-date {
+  color: #aaaaaa;
 }
