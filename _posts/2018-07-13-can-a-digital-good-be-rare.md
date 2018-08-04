@@ -11,9 +11,11 @@ You have probably heard the term blockchain being used many times in the past fe
 
 There are maths formulae that gives us a unique series of characters called a hash that is different for any two files. 
 
-One file’s hash might look like this: >*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*
+One file’s hash might look like this: 
+>*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*
 
-But a file with just one changed character might look like this: >*de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3*
+But a file with just one changed character might look like this: 
+>*de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3*
 
 This makes it possible for us to make sure the file we get is accurate and not tampered with. This process is called hashing. Hashing is easy, however, getting the original file from a hash is nearly impossible! This is a one-way process.
 
