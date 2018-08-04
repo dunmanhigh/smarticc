@@ -5,20 +5,20 @@ tags: blockchain
 author: Zenon Hans Taneka
 ---
 
-You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!
+You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!  
 
-![](https://i.imgur.com/vbHFMGE.jpg)
+![](https://i.imgur.com/vbHFMGE.jpg)  
 
 
-There are maths formulae that gives us a unique series of characters called a hash that is different for any two files.
+There are maths formulae that gives us a unique series of characters called a hash that is different for any two files.  
 
 One file’s hash might look like this: 
->*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*
+>*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*  
 
 But a file with just one changed character might look like this: 
->*de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3*
+>*de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3*  
 
-This makes it possible for us to make sure the file we get is accurate and not tampered with. This process is called hashing. Hashing is easy, however, getting the original file from a hash is nearly impossible! This is a one-way process.
+This makes it possible for us to make sure the file we get is accurate and not tampered with. This process is called hashing. Hashing is easy, however, getting the original file from a hash is nearly impossible! This is a one-way process.  
 
 A company has made use of these maths formulae to create hashes that represents a specific design of a cartoon cat. People can breed two of these cartoon cats and get a new cat! However, how do we make sure that people do not simply copy these hashes and make an identical cat that you have.
 
