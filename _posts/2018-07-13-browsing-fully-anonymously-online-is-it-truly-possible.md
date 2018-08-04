@@ -36,8 +36,8 @@ Tor users use Tor for many reasons. Some use Tor not to access the dark web, but
 
 Now, granted some people take the fact that potential criminals are given the possibility to operate with anonymity as a reason that Tor should not be allowed to continue. Or, return it to as it was originally; a private project not available to the public. See, the thing is, Tor being something that is available to the public is what makes it anonymous in the first place. If Tor were only accessible to a specific group of people (eg. the CIA), any time a connection came from Tor, we could immediately determine it was from that specific group of people. It’s widespread availability is what allows it to be truly anonymous. Government intelligence agents need the anonymity of Tor as much as a illegal drug dealer. And there is no half-measure. It’s either everyone, or no one.
 
-The above measures are not *the only way* to stay private, but they are methods that you can easily adopt from the get-go, like changing a search engine or a browser. However, if you would like to learn more about how to stay private online, you can go to [this link] (http://bit.ly/tor_vpn) to learn more about browsing anonymously 
-Or, if you would like to know what a IP address is, you can [visit here] (http://bit.ly/2AAdzSc) to find out what IP addresses are for!
+The above measures are not *the only way* to stay private, but they are methods that you can easily adopt from the get-go, like changing a search engine or a browser. However, if you would like to learn more about how to stay private online, you can go to [this link](http://bit.ly/tor_vpn) to learn more about browsing anonymously 
+Or, if you would like to know what a IP address is, you can [visit here](http://bit.ly/2AAdzSc) to find out what IP addresses are for!
 
 [image-1]: {{ "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-1.jpeg" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-2.jpeg" | absolute_url }}
