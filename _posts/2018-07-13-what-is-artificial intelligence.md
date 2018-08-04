@@ -41,3 +41,4 @@ Q1) How does IoT help in Machine Learning?
 
 Q2) Briefly explain one of the pitfalls of using artificial intelligence.
 
+[image-1]: {{ "/assets/img/2018-07-13-what-is-artificial intelligence-1.png" | absolute_url }}
