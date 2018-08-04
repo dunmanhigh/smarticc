@@ -7,12 +7,19 @@ author: Zenon Hans Taneka
 
 You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!
 
+
+
 ![](https://i.imgur.com/vbHFMGE.jpg)
+
+
 
 There are maths formulae that gives us a unique series of characters called a hash that is different for any two files. 
 
+
+
 One file’s hash might look like this: 
 >*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*
+
 
 But a file with just one changed character might look like this: 
 >*de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3*
