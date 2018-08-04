@@ -1,7 +1,7 @@
 ---
 title: Making Virtual Reality a Reality in Today’s Classrooms
 categories: article
-tags: Artificial Intelligence
+tags: VR
 author: Leonard Lee-Ralph Lim Yue Tai, Chou Bi Yu, Loh Jun Kai
 ---
 
@@ -41,6 +41,7 @@ Current uses and resources for VR focus on individual experiences with limited i
 
 Sources:
 [https://www.opengovasia.com/articles/7622-singapore-government-exploring-the-use-of-virtual-reality-for-school-education-and-enhanced-clinical-training](https://www.opengovasia.com/articles/7622-singapore-government-exploring-the-use-of-virtual-reality-for-school-education-and-enhanced-clinical-training)
+
 [https://www.straitstimes.com/singapore/school-excursions-become-a-virtual-reality-for-primary-school-pupils](https://www.straitstimes.com/singapore/school-excursions-become-a-virtual-reality-for-primary-school-pupils)
 
 [image-1]: {{ "/assets/img/2018-07-13-making-virtual-reality-a-reality-in-todays-classrooms-1.png" | absolute_url }}
