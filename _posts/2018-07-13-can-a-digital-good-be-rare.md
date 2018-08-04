@@ -9,7 +9,8 @@ You have probably heard the term blockchain being used many times in the past fe
 
 ![](https://i.imgur.com/vbHFMGE.jpg)
 
-There are maths formulae that gives us a unique series of characters called a hash that is different for any two files. 
+
+There are maths formulae that gives us a unique series of characters called a hash that is different for any two files.
 
 One file’s hash might look like this: 
 >*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*
