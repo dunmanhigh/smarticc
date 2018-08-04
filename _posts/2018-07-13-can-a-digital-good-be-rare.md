@@ -5,12 +5,11 @@ tags: blockchain
 author: Zenon Hans Taneka
 ---
 
-You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!
-
-![](https://i.imgur.com/vbHFMGE.jpg)  
-
+You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!\
 
 There are maths formulae that gives us a unique series of characters called a hash that is different for any two files.  
+
+![](https://i.imgur.com/vbHFMGE.jpg)  
 
 One file’s hash might look like this: 
 >*2fd4e1c67a2d28fced849ee1bb76e7391b93eb12*  
