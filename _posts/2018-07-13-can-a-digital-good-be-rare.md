@@ -5,7 +5,7 @@ tags: blockchain
 author: Zenon Hans Taneka
 ---
 
-You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!\
+You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better! <br/>
 
 There are maths formulae that gives us a unique series of characters called a hash that is different for any two files.  
 
