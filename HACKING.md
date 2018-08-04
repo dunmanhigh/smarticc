@@ -4,8 +4,10 @@ The blog is made with Jekyll, a blogging framework that builds _everything_ into
 
 **N.B.** If you see a placeholder in a code snippet with (round) brackets around them, replace the whole placeholder, including the brackets. 
 
+Also, **N.B.** If you're making changes on your own machine, please set your editor to use **Unix-style line endings**. If you're using Sublime Text, Notepad++, Atom, VSCode or any other competent text editor, this shouldn't be an issue; just don't use Notepad if you're on Windows (looking at you @zehata)
+
 ## Setup
-To see your changes live, fork this repository, push whatever changes you have and go to (your github username).github.io/(whatever this repository ends up being named). Whenever you want to preview your changes, push them to your fork and look at the page agian.
+To see your changes live, fork this repository, push whatever changes you have and go to (your github username).github.io/smarticc. Whenever you want to preview your changes, push them to your fork and look at the page agian.
 
 Alternatively, you can set it up on your own machine. You'll need to install Ruby as well as rubygems, which usually come together. You'll also need bundler, which you can get with 
 
