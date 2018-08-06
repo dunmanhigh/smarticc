@@ -3,6 +3,7 @@ title: 5G - The network of Tomorrow
 categories: article
 tags: 5g
 author: Vicky Ang Xin En, Qiang Jiayuan, Matthew Karuna Lim
+image: "/assets/img/2018-07-13-5g-the-network-of-tomorrow-preview.png"
 ---
 
 Do you know how long cell phone networks have been around? You might be surprised to learn that they've been in existence since 1973 in some form or another. The creators didn't optimize the first networks for international calls, much less the affordable plans that are offered now. 

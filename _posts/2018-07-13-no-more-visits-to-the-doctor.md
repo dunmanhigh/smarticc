@@ -3,6 +3,7 @@ title: No More Visits To The Doctor
 categories: article
 tags: medicine
 author: Chen Xinyi, Leo Qiyi Joel, Kok Wei En Isaac
+image: "/assets/img/2018-07-13-no-more-visits-to-the-doctor-preview.png"
 ---
 
 Have you ever wondered what telemedicine is? [Telemedicine is basically the use of telecommunication and information technology to provide clinical health care from a distance.](https://www.wikiwand.com/en/Telemedicine) Its use of telecommunications networks allow one to access medical help through electronic devices all around the place without the need of visiting medical facilities, enabling greater reach into areas without direct medical access(eg. rural). I am sure you must be interested in the pros and cons of telemedicine now (If you are not, I am sure you wouldn’t read till here). Do not worry. Below are some great examples. Read on now!!!
@@ -25,6 +26,6 @@ Another disadvantage will be the cost of a single telemedicine machine.Today, a 
 In conclusion, telemedicine can be both beneficial and not. If improvements are made and over the years, they may even replace our doctors!! Is it encourageable for it to happen? What will happen for our doctors who studied so hard? It is up to you to imagine it for yourselves. Until next time, keep anticipating!
 
 
-[image-1]: {{ "/assets/img/2018-08-03-no-more-visits-to-the-doctor-1.jpg" | absolute_url }}
-[image-2]: {{ "/assets/img/2018-08-03-no-more-visits-to-the-doctor-2.jpg" | absolute_url }}
-[image-3]: {{ "/assets/img/2018-08-03-no-more-visits-to-the-doctor-3.jpg" | absolute_url }}
+[image-1]: {{ "/assets/img/2018-07-13-no-more-visits-to-the-doctor-1.jpg" | absolute_url }}
+[image-2]: {{ "/assets/img/2018-07-13-no-more-visits-to-the-doctor-2.jpg" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-07-13-no-more-visits-to-the-doctor-3.jpg" | absolute_url }}

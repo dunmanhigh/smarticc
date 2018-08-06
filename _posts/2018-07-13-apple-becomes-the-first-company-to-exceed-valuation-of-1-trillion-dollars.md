@@ -3,6 +3,7 @@ title: Apple becomes the first company to exceed valuation of 1 trillion dollars
 categories: article
 tags: finance tech
 author: Ong Teng Wee
+image: "/assets/img/2018-07-13-apple-becomes-the-first-company-to-exceed-valuation-of-1-trillion-dollars-preview.png"
 ---
 
 A trillion dollars is an outrageous amount of money, and normally in the news, money in the ballpark of 1 trillion USD is only mentioned when considering the economic decisions of entire countries. Apple Inc has recently acquired that level of valuation, as the first technology company that is worth a trillion dollars, ahead of several other major tech companies striving for the same economic milestone.

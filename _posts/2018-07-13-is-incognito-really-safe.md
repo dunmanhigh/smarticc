@@ -3,6 +3,7 @@ title: Is Incognito really that safe?
 categories: article
 tags: internet security
 author: Chen Yiyang
+image: "/assets/img/2018-07-13-is-incognito-really-safe-preview.png"
 ---
  
 Most of us enjoy using the Incognito Mode of Google Chrome. We think of it as a very convenient and safe way of browsing, as it allows you to log in to your email on school laptops without logging out afterwards, and also prevents your friends viewing your browser history when you lend your laptop to them. Indeed, nothing seems to be left after you close the browser, but how does the Incognito work and can it really guarantee us absolute Internet privacy? Well, there’s actually a lot more behind its black interface.

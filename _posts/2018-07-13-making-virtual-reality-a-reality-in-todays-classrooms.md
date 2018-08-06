@@ -3,6 +3,7 @@ title: Making Virtual Reality a Reality in Today’s Classrooms
 categories: article
 tags: vr
 author: Leonard Lee-Ralph Lim Yue Tai, Chou Bi Yu, Loh Jun Kai
+image: "/assets/img/2018-07-13-making-virtual-reality-a-reality-in-todays-classrooms-preview.png"
 ---
 
 A picture may be worth a thousand words, but virtual reality (VR) could be taking that a step further in the classroom if a government pilot project takes off. 

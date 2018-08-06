@@ -3,6 +3,7 @@ title: Have we found a way to solve the problems caused by money?
 categories: article
 tags: money cashless 
 author: Xu Xicheng, Yu Chenbo
+image: "/assets/img/2018-07-13-have-we-found-a-way-to-solve-money-problems-preview.png"
 ---
 
 Have you ever been struggling with the decision of whether to bring money along or not? This has always been a tough question for many, as both choices possess limitations..

@@ -3,6 +3,7 @@ title: Browsing fully anonymously online - Is it truly possible?
 categories: article
 tags: online privacy 
 author: Kimi Yap, Tan Rui Yang, Ethan Koh
+image: "/assets/img/2018-07-13-browsing-fully-anonymously-online-is-it-truly-possible-preview.png"
 ---
 
 
