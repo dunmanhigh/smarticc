@@ -42,3 +42,10 @@ article.post:last-child {
 .post-date {
   color: #aaaaaa;
 }
+
+@media screen and (max-width: 600px) {
+  .media {
+    flex-direction: column;
+    align-items: center;
+  }
+}
