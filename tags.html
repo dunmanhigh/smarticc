@@ -10,32 +10,28 @@ site.tags is sorted and assigned to sorted_tags at the start.
 
 {% assign sorted_tags = site.tags | sort %}
 
-<section class="section">
-  <div class="container">
-    <div class="content">
-      <h3>Tags: </h3>
-      <div class="tags">
-        {% for tag in sorted_tags %}
-        <a href="#{{ tag[0] }}" class="tag is-medium is-link">{{ tag[0] }}</a>
-        {% endfor %}
-      </div>
-      <hr>
-      
-      {% for tag in sorted_tags %}
-      
-      <h1 id="{{ tag[0] }}">{{ tag[0] }}</h1>
-      <ul>
-        {% for post in tag[1] %}
-        <a href="{{ post.url | relative_url }}">
-          <li>
-            {{ post.title }} <span class="post-date">posted {{ post.date | date_to_string }}</span>
-          </li>
-        </a>
-        {% endfor %}
-      </ul>
-
-      {% endfor %}
-
-    </div>
+<div class="content">
+  <h3>Tags: </h3>
+  <div class="tags">
+    {% for tag in sorted_tags %}
+    <a href="#{{ tag[0] }}" class="tag is-medium is-link">{{ tag[0] }}</a>
+    {% endfor %}
   </div>
-</section>
+  <hr>
+  
+  {% for tag in sorted_tags %}
+  
+  <h1 id="{{ tag[0] }}">{{ tag[0] }}</h1>
+  <ul>
+    {% for post in tag[1] %}
+    <a href="{{ post.url | relative_url }}">
+      <li>
+        {{ post.title }} <span class="post-date">posted {{ post.date | date_to_string }}</span>
+      </li>
+    </a>
+    {% endfor %}
+  </ul>
+
+  {% endfor %}
+
+</div>

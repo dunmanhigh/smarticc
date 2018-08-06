@@ -10,7 +10,22 @@
     </header>
 
     <main>
-      {{ content }}
+
+      {% comment %}
+      The 404 page uses a special container that takes up the whole page.
+      All the other pages, however, use the exact same conainer.
+      {% endcomment %}
+      {% if page.name == "404.html" %}
+        {{ content }}
+      {% else %}
+        <section class="section">
+          <div class="container">
+            {% include banner.html %}
+
+            {{ content }}
+          </div>
+        </section>
+      {% endif %}
     </main>
 
     <footer>

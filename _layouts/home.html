@@ -2,34 +2,30 @@
 layout: default
 ---
 
-<section class="section">
-  <div class="container">
-    <div class="box content">
-      {% for post in site.posts %}
-      <div class="media post-list__content">
-        <a href="{{ post.url | relative_url }}" class="post-list__content">
-          <figure class=" column">
-            <p class="image is-128x128">
-              <img src="{{ post.image | relative_url }}">
-            </p>
-          </figure>
-          <div class="media-content">
-            <div class="content">
-              <h3>{{ post.title }}</h3>
-              <p>
-                {{ post.excerpt | strip_html }}<br><br>
-                {{ post.categories.first | capitalize }} 
-                  {% if post.author %} by {{ post.author }} {% endif %}
-                &nbsp;  <!-- non-breaking space -->
-                {% for tag in post.tags %}
-                <a href="{{ site.baseurl }}{% link tags.html %}#{{ tag }}" class="tag is-link">{{ tag }}</a>
-                {% endfor %}
-              </p>
-            </div>
-          </div>
-        </a>
+<div class="box content">
+  {% for post in site.posts %}
+  <div class="media post-list__content">
+    <a href="{{ post.url | relative_url }}" class="post-list__content">
+      <figure class="media-left column">
+        <p class="image is-128x128">
+          <img src="{{ post.image | relative_url }}">
+        </p>
+      </figure>
+      <div class="media-content">
+        <div class="content">
+          <h3>{{ post.title }}</h3>
+          <p>
+            {{ post.excerpt | strip_html }}<br><br>
+            {{ post.categories.first | capitalize }} 
+              {% if post.author %} by {{ post.author }} {% endif %}
+            &nbsp;  <!-- non-breaking space -->
+            {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}{% link tags.html %}#{{ tag }}" class="tag is-link">{{ tag }}</a>
+            {% endfor %}
+          </p>
+        </div>
       </div>
-      {% endfor %}
-    </div>
+    </a>
   </div>
-</section>
+  {% endfor %}
+</div>

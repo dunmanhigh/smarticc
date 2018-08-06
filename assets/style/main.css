@@ -43,6 +43,11 @@ article.post:last-child {
   color: #aaaaaa;
 }
 
+.post-list__content {
+  display: flex;
+  flex-direction: row;
+}
+
 @media screen and (max-width: 600px) {
   .media {
     flex-direction: column;

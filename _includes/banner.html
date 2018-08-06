@@ -1,0 +1,25 @@
+{% comment %}
+Add your banner HTML to a relevant if-block, depending on where you want your banner to be seen.
+If you want a banner to be seen everywhere, add it outside of a if-block.
+You can combine blocks in the if-condition with "and" or "or"
+"page.layout" can catch "category_index", "home" and "post" pages
+use page.name to catch "tags.html"
+{% endcomment %}
+
+{% if page.layout == "home" %}
+<section class="hero is-dark">
+    <div class="hero-body">
+        <h1 class="title">Welcome!</h1>
+        <h2 class="subtitle">Smart Nation, Smart DHS</h2>
+    </div>
+</section>
+{% endif %}
+
+{% if page.layout == "post" %}
+{% endif %}
+
+{% if page.layout == "category_index" %}
+{% endif %}
+
+{% if page.name == "tags.html" %}
+{% endif %}

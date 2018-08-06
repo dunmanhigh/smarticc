@@ -1,36 +1,29 @@
 ---
 layout: default
 ---
-
-
-
-<section class="section">
-  <div class="container">
-    <article class="content">
-      <h1 class="title is-size-1 has-text-centered">
-        {{ page.title }}
-      </h1>
-      <p class="subtitle has-text-grey has-text-centered">
-        {% if page.author %}
-            by {{ page.author }}
-          <br>
-        {% endif %}
-        <span class="post-date">{{ page.date | date_to_string }}</span>
-      </p>
-      
-      <div id="post-content">
-        {{ page.content }}
-      </div>
-
-      <hr>
-      <div class="tags">
-        <p>
-          Tags: &nbsp;
-          {% for tag in page.tags %}
-          <a href="{{ site.baseurl }}{% link tags.html %}#{{ tag }}" class="tag is-medium is-link">{{ tag }}</a>
-          {% endfor %}
-        </p>
-      </div>
-    </article>
+<article class="content">
+  <h1 class="title is-size-1 has-text-centered">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle has-text-grey has-text-centered">
+    {% if page.author %}
+        by {{ page.author }}
+      <br>
+    {% endif %}
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+  </p>
+  
+  <div id="post-content">
+    {{ page.content }}
   </div>
-</section>
+
+  <hr>
+  <div class="tags">
+    <p>
+      Tags: &nbsp;
+      {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}{% link tags.html %}#{{ tag }}" class="tag is-medium is-link">{{ tag }}</a>
+      {% endfor %}
+    </p>
+  </div>
+</article>
