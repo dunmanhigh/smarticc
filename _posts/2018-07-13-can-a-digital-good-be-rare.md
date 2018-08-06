@@ -3,7 +3,7 @@ title: Can a digital good be rare?
 categories: article
 tags: blockchain
 author: Zenon Hans Taneka
-image: "/assets/img/2018-07-13-can-a-digital-good-be-rare-preview.png"
+image: "../assets/img/2018-07-13-can-a-digital-good-be-rare-preview.png"
 ---
 
 You have probably heard the term blockchain being used many times in the past few months, but have you understood what it is? Let’s use the example of Cryptokitties to help us understand better!
