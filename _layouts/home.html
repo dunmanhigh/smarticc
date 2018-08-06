@@ -8,11 +8,11 @@ layout: default
       {% for post in site.posts %}
       <div class="media post-list__content">
         <a href="{{ post.url | relative_url }}" class="post-list__content">
-          <!-- <figure class=" column">
+          <figure class=" column">
             <p class="image is-128x128">
-              <img src="https://bulma.io/images/placeholders/128x128.png">
+              <img src="{{ post.image | relative_url }}">
             </p>
-          </figure> -->
+          </figure>
           <div class="media-content">
             <div class="content">
               <h3>{{ post.title }}</h3>
