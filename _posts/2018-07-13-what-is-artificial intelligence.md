@@ -3,7 +3,7 @@ title: What is Artificial Intelligence?
 categories: article
 tags: ai
 author: Jake Kee Chong Han, He Ziqi, Lam Yik Ting
-image: "/assets/img/2018-07-13-what-is-artificial intelligence-preview.png"
+image: "/assets/img/2018-07-13-what-is-artificial intelligence-preview.jpg"
 ---
 
 Artificial Intelligence. You may have heard of this term lately but what exactly is artificial intelligence and what does it have to do with modern-day society? Let’s talk more about it.
