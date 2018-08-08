@@ -1,4 +1,4 @@
-# How this <span style="text-decoration: line-through">dumb</span> site works
+# How this site works
 
 The blog is made with Jekyll, a blogging framework that builds _everything_ into static files, which are served with Github Pages.
 
@@ -24,7 +24,7 @@ bundle install
 You should now be able to serve the site from your machine with 
 
 ```shell
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ...and head to localhost:4000, or whatever the command shows. As a bonus, all pages will rebuild whenever you save a file, EXCEPT `_config.yml`. The built site is placed in `_site` and served from there; you don't need to push this folder, but it's useful if you want to see build output.
@@ -35,7 +35,7 @@ To add a new post, just place a new `.md` file in the `_posts` directory with th
 ```yaml
 ---
 title: (title of your post)
-categories: (article | tutorial | something else, one only)
+categories: (article | tutorial)
 tags: (any number of lowercase tags separated by spaces)
 ---
 ```
