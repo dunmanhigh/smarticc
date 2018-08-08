@@ -9,10 +9,12 @@
 body {
     display: flex;
     flex-direction: column;
-    /*min-height: 100vh;*/
+    min-height: 100vh;
 }
 main {
-    flex: 1;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 article.post {
@@ -49,4 +51,8 @@ article.post:last-child {
     flex-direction: column;
     align-items: center;
   }
+}
+
+.hero-404 {
+  flex: 1;  
 }
