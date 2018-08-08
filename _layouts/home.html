@@ -5,17 +5,23 @@ layout: default
 <div class="box content">
   {% for post in site.posts %}
   <div class="media post-list__content">
-    <a href="{{ post.url | relative_url }}" class="post-list__content">
-      <figure class="media-left column">
+    
+      <figure class="media-left">
         <p class="image is-128x128">
-          <img src="{{ post.image | relative_url }}">
+          <a href="{{ post.url | relative_url }}" class="post-list__content">
+            <img src="{{ post.image | relative_url }}">
+          </a>
         </p>
       </figure>
       <div class="media-content">
         <div class="content">
-          <h3>{{ post.title }}</h3>
+          <a href="{{ post.url | relative_url }}">
+            <h3>{{ post.title }}</h3>
+          </a>
           <p>
-            {{ post.excerpt | strip_html }}<br><br>
+            <a href="{{ post.url | relative_url }}" class="post-list__content">
+              {{ post.excerpt | strip_html }}<br><br>
+            </a>
             {{ post.categories.first | capitalize }} 
               {% if post.author %} by {{ post.author }} {% endif %}
             &nbsp;  <!-- non-breaking space -->

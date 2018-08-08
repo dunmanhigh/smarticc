@@ -9,7 +9,7 @@
 body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    /*min-height: 100vh;*/
 }
 main {
     flex: 1;
@@ -43,10 +43,6 @@ article.post:last-child {
   color: #aaaaaa;
 }
 
-.post-list__content {
-  display: flex;
-  flex-direction: row;
-}
 
 @media screen and (max-width: 600px) {
   .media {
