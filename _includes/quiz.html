@@ -1,0 +1,80 @@
+<div class="quiz">
+
+    <div id="quiz__completed"></div>
+    <!-- anyone looking for the answers in here: https://bit.ly/2hDYrHq -->
+    <div id="quiz__in-progress">
+        {% for question in include.questions %}
+        <div class="quiz__question">
+            <h2>{{ question.question }}</h2>
+            <div class="quiz__answer-list">
+                {% for answer in question.answers %}
+                <div class="quiz__answer" data-correct="{{ answer.correct }}" onclick="handleClick(this)">{{ answer.text }}</div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div id="quiz__finale">
+        <h2>You've finished the quiz!</h2>
+        <p>You scored <span id="quiz__finale__score"></span> out of {{ include.questions | size }}.</p>
+    </div>
+</div>
+
+<script type="text/javascript">
+// sorry for the shitty dom traversal
+// i was too lazy to include a view framework
+
+let score = 0
+
+// fake jquery
+function $(selector) {
+    return document.querySelector(selector);
+}
+
+// disable clicks on done questions
+$('#quiz__completed').addEventListener('click', function(e) {
+    e.stopPropagation();
+    e.preventDefault();
+}, true); // true: execute the handler before propagating
+
+// given a .quiz__answer element, check if answer is correct, set appropriate color
+// also, if wrong, look for the correct answer and highlight that
+function checkAnswer(answerElement) {
+    // note that data attributes return strings.
+    if (answerElement.dataset.correct === "true") {
+        answerElement.classList.add('quiz__answer--correct')
+        score++
+    } else {
+        answerElement.classList.add('quiz__answer--wrong')
+        // look through siblings and look for correct one
+        let siblings = answerElement.parentNode.getElementsByTagName('div')
+
+        for (let i = 0; i < siblings.length; i++) {
+            if (siblings[i].dataset.correct === "true") {
+                siblings[i].classList.add('quiz__answer--correct')
+            }
+        }
+    }
+}
+
+function disableQuestion(answerElement) {
+    $("#quiz__completed").appendChild(answerElement.parentNode.parentNode)
+}
+
+// handler for when an answer is selected.
+function handleClick(element) {
+    checkAnswer(element);
+    setTimeout(function() {
+        disableQuestion(element);
+        if ($('#quiz__in-progress').children.length === 0) {
+            $('#quiz__finale').style.display = 'block';
+            $('#quiz__finale__score').textContent = score
+        } 
+    }, 1000);
+}
+
+
+
+
+</script>
