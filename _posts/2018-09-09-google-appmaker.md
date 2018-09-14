@@ -36,20 +36,21 @@ So, are you interested in learning and making your own app? Here’s your chance
 
 You can just head to the website at [Google AppMaker1](https://appmaker.google.com/#), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
 
-![][img1]
+![][image-1]
 
 The tutorial will teach you how to create a new app as a starter! It will be a list-app! YAY!
 You can preview your app and know how your app’s interface will be like.
 
-![][img2]
+![][image-2]
 
 The website also have templates which have template screens and preset buttons to start off your project with some inspiration and ideas!
 
-![][img3]
+![][image-3]
 
 There are many templates for you to choose from depending from what type of app you want to make, which you can use for inspiration as well!
 
-![][img4]
+![][image-4]
+
 This website can help you create an Android app that you can share with your friends. You will be able to download your own app file and use it on your Android phone.
 
 **So What Can I Add to the App?**
@@ -66,7 +67,7 @@ There is a LOT you can find in this appmaker website. Amazing functions that we 
 To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLSdT6YXmjbRj--oqdxfINSsSDWCGBNZRacyZnipL-wVWl76o_g/viewform?usp=sf_link).  
 
 
-[img1]: {{ "/assets/img/2018-09-09-google-appmaker-1.png" | absolute_url }})
-[img2]: {{ "/assets/img/2018-09-09-google-appmaker-2.png" | absolute_url }})
-[img3]: {{ "/assets/img/2018-09-09-google-appmaker-3.png" | absolute_url }})
-[img4]: {{ "/assets/img/2018-09-09-google-appmaker-4.png" | absolute_url }})
+[image-1]: {{ "/assets/img/2018-09-09-google-appmaker-1.png" | absolute_url }}
+[image-2]: {{ "/assets/img/2018-09-09-google-appmaker-2.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-09-09-google-appmaker-3.png" | absolute_url }}
+[image-4]: {{ "/assets/img/2018-09-09-google-appmaker-4.png" | absolute_url }}

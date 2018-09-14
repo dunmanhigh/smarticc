@@ -3,28 +3,28 @@ title: 辅助技术
 categories: article
 tags: tech medical care elderly
 author: Xu Xicheng, Yu Chenbo
-image: "/assets/img/assistivetechnology0.png"
+image: "/assets/img/2018-09-09-assistive-technology-0.png"
 questions:
 - question: "以下哪些技术不属于辅助技术呢？（多选）"
   answer:
   - text: "邻居家奶奶使用的轮椅"
-  correct: false
+    correct: false
   - text: "舅舅车间里批量加工原料使用的机器"
-  correct: true
+    correct: true
   - text: "表弟因为先天听力疾病使用的助听器"
-  correct: false
+    correct: false
   - text: "姐姐整牙使用的牙套"
-  correct: true
+    correct: true
 - question: "辅助技术在以下哪个领域的应用在文中没有提及？"
   answer:
   - text: "听力恢复"
-  correct: false
+    correct: false
   - text: "视力恢复"
-  correct: false
+    correct: false
   - text: "医治瘫痪"
-  correct: true
+    correct: true
   - text: "病人体验"
-  correct: false
+    correct: false
 ---
 
 **辅助技术（Assistive Technology）**，是指运用科技的手段，或通过研发科学装置，来帮助身体或是心理上有缺陷的患者，重建或替代他们的某些能力或身体机能，以改善他们的生活品质。
@@ -70,7 +70,7 @@ questions:
 **如果你想了解辅助技术（Assistive Technology）的更多相关知识，不妨通过下面这个链接进行学习：**
 [关于辅助技术的Lynda课程](https://www.lynda.com/Higher-Education-tutorials/What-assistive-technology/461908/501872-4.html) （你可能需要注册账号并单击start my free month来观看本教程）
 
-[image-1]: {{ "/assets/img/assistivetechnology1.png" | absolute_url }}
-[image-2]: {{ "/assets/img/assistivetechnology2.png" | absolute_url }}
-[image-3]: {{ "/assets/img/assistivetechnology3.png" | absolute_url }}
-[image-4]: {{ "/assets/img/assistivetechnology4.png" | absolute_url }}
+[image-1]: {{ "/assets/img/2018-09-09-assistive-technology-1.png" | absolute_url }}
+[image-2]: {{ "/assets/img/2018-09-09-assistive-technology-2.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-09-09-assistive-technology-3.png" | absolute_url }}
+[image-4]: {{ "/assets/img/2018-09-09-assistive-technology-4.png" | absolute_url }}
