@@ -72,12 +72,16 @@ To test yourself on what you have learnt from the articles in the website and st
 
 ### **Some Useful Links For More information:**
 [EZ-Link ventures into a new era of payment wearables with Garmin and Watchdata Technologies](http://home.ezlink.com.sg/2017/01/ez-link-ventures-into-a-new-era-of-payment-wearables-with-garmin-and-watchdata-technologies)
+
 [LTA pilots account-based ticketing system for public transport with MasterCard](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=ea61ae1b-8aaf-4cab-89b8-c32fdf276745)
+
 [Bringing greater commuting experience with innovative fare payment systems](http://www.lta.gov.sg/apps/news/page.aspx?c=2&id=f1b4a397-07ff-4a43-9c27-2e29d2e7391c)
+
 [Near Field Communication-enabled mobile phones now usable for public transport payments](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=9a11347c-b41e-4831-8327-a422aa2a1878)
+
 [Pros and Cons of NFC](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=9a11347c-b41e-4831-8327-a422aa2a1878)
 
 [image-1]: {{ "/assets/img/2018-09-09-contactless-fare-payment-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-09-09-contactless-fare-payment-2.png" | absolute_url }}
-[image-3]: {{ "/assets/img/2018-09-09-contactless-fare-payment-3.png" | absolute_url }}
-[image-4]: {{ "/assets/img/2018-09-09-contactless-fare-payment-4.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-09-09-contactless-fare-payment-3.jpg" | absolute_url }}
+[image-4]: {{ "/assets/img/2018-09-09-contactless-fare-payment-4.jpg" | absolute_url }}
