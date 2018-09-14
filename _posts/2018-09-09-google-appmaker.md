@@ -1,9 +1,9 @@
 ---
 title: Google App Maker
 categories: tutorial
-tags: App Development
+tags: app development
 authors: Lam Yik Ting, He Ziqi, Jake Kee Chong Han
-image: "/assets/img/2018-09-09-why-github-preview.png"
+image: "/assets/img/2018-09-09-google-appmaker-preview.jpg"
 questions:
 - question: "What is the usage of apps?"
   answer:
@@ -34,7 +34,7 @@ Applications have various impacts on our lives and it would be a waste to just i
 
 So, are you interested in learning and making your own app? Here’s your chance! Google just launched a new website called appmaker.google.com and you can use your own Google account to start an app!
 
-You can just head to the website at [Google AppMaker1](appmaker.google.com), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
+You can just head to the website at [Google AppMaker1](https://appmaker.google.com/#), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
 
 ![][img1]
 
@@ -58,7 +58,7 @@ Now let me explain some functions that you can add to your app! To understand mo
 
 To start off, there are pages. You may create a page fragment, which covers part of a page, just like a notification appearance or a confirmation bar. Buttons are interactive things that you use just to link to another page, or activate a page. For example, when you click on a button, you may link it to maybe fill up a field of your app. Labels are basically items that display text, and links and images are just what you think they are. Special functions that can be found mostly only in this appmaker are Google Maps, where you can browse on the spot without adding any other code, while you can even add charts and many more!
 
-However, code may still be needed. There are advanced items that require JavaScript to be built, and sometimes you just have to copy and paste the code to combine them. To add very complicated functions, you still have to code out. If you are so passionate about code, an easy way is to head online, where I believe many articles and video tutorials will be available. I surely cannot teach you everything here; CODING IS TO EXPLORE. The documentations at [Google Developers](developers.google.com) may help; just search out what you need with ‘appmaker’ and help will come out!
+However, code may still be needed. There are advanced items that require JavaScript to be built, and sometimes you just have to copy and paste the code to combine them. To add very complicated functions, you still have to code out. If you are so passionate about code, an easy way is to head online, where I believe many articles and video tutorials will be available. I surely cannot teach you everything here; CODING IS TO EXPLORE. The documentations at [Google Developers](https://developers.google.com/) may help; just search out what you need with ‘appmaker’ and help will come out!
 
 There is a LOT you can find in this appmaker website. Amazing functions that we all can use with very less code only. Just drag and drop and select the pages linking, use an online simulator and send your app to your friend for easy and efficiency usage! To end this article, if you are interested in creating your own app you can try using this software, enjoy the process! This is a good experience and a rare opportunity! Use your classmates’ ideas, to create an app you like, that can contribute to everyone’s lives, and share it of course! We hope you have enjoyed this article!
 
