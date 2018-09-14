@@ -37,20 +37,20 @@ apps when I could be studying or doing something else?
 
     You can just head to the website at [Google AppMaker](appmaker.google.com), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
 
-![Google App Maker](/assets/img/gam1.png)
+![Google App Maker]{{ "/assets/img/2018-09-09-google-appmaker-1.png" | absolute_url }})
 
     The tutorial will teach you how to create a new app as a starter! It will be a list-app! YAY!
 You can preview your app and know how your app’s interface will be like.
 
-![Google App Maker](/assets/img/gam2.png)
+![Google App Maker]{{ "/assets/img/2018-09-09-google-appmaker-2.png" | absolute_url }})
 
     The website also have templates which have template screens and preset buttons to start off your project with some inspiration and ideas!
 
-![Google App Maker](/assets/img/gam3.png)
+![Google App Maker]{{ "/assets/img/2018-09-09-google-appmaker-3.png" | absolute_url }})
 
     There are many templates for you to choose from depending from what type of app you want to make, which you can use for inspiration as well!
 
-![Google App Maker](/assets/img/gam4.png)  
+![Google App Maker]{{ "/assets/img/2018-09-09-google-appmaker-4.png" | absolute_url }})
 
     This website can help you create an Android app that you can share with your friends. You will be able to download your own app file and use it on your Android phone.
 
