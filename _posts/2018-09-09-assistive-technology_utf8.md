@@ -3,7 +3,7 @@ title: 辅助技术
 categories: article
 tags: tech medical care elderly
 author: Xu Xicheng, Yu Chenbo
-image: "/assets/img/2018-09-09-assistive-technology-0.png"
+image: "/assets/img/2018-09-09-assistive-technology-preview.png"
 questions:
 - question: "以下哪些技术不属于辅助技术呢？（多选）"
   answer:
@@ -46,7 +46,7 @@ questions:
 如今，在我们的生活中，机器人科技的融入使得辅助科技发展到了一个新的阶段。
 
 
-#####辅助科技能够提高整体的生活水平，具体表现为：#####
+##### 辅助科技能够提高整体的生活水平，具体表现为: #####
 
 - 帮助乐龄人士维持独立生活的能力；
 - 很大程度地改善具有身体残疾的人士的生活；
@@ -69,6 +69,8 @@ questions:
 
 **如果你想了解辅助技术（Assistive Technology）的更多相关知识，不妨通过下面这个链接进行学习：**
 [关于辅助技术的Lynda课程](https://www.lynda.com/Higher-Education-tutorials/What-assistive-technology/461908/501872-4.html) （你可能需要注册账号并单击start my free month来观看本教程）
+
+在阅读了文篇文章之后，你是否也想考验考验自己学到了什么吗？或是赢取小奖励？那么不妨点击此[链接](https://docs.google.com/forms/d/e/1FAIpQLSdBdgSZvUTMQ3iMIg4_pvj5rDM2Kskloas-gLsOghxgXn0iUw/viewform?usp=sf_link)，完成一个在Google Form中的小测试！
 
 [image-1]: {{ "/assets/img/2018-09-09-assistive-technology-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-09-09-assistive-technology-2.png" | absolute_url }}
