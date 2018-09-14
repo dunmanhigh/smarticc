@@ -43,6 +43,9 @@ In addition, do you remember the Google Code-In competition which you can finish
 
 Meanwhile, let’s quickly master the skill of using Git :D
 
+### Quiz Time!
+To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLScLalyQExWR72WUd10N-Csb0V2Lf7pvUd6mUvfDW3tAHPJ1eg/viewform?usp=sf_link).  
+
 [image-1]: {{ "/assets/img/2018-09-09-why-github-1.png" | absolute_url }}
 
 Ref.

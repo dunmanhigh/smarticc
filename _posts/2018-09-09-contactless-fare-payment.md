@@ -21,10 +21,10 @@ questions:
     correct: false
   - text: "Security Issues"
     correct: true
-- question: "Do you think in the distant future we would have (full) contactless fare payment? Why?" # open-ended, no answers
+- question: "Do you think in the distant future we would have (full) contactless fare payment? Why?"
 ---
 
-** Do you find it troublesome to have to take out your wallet/card to tap the gantry every single time your board a bus/ train? Have you ever boarded a bus or entered an MRT station and wished you could just walk past the gantry without having to lift a finger to take out your wallet to tap at the gantry? Well that dream of yours may not be that far in the future as you might think.. With the invention of NFC.. That dream would definitely be possible.. In this article we would be focusing more on the contactless fare payment in the TRANSPORT INDUSTRY! So prepare to take the ride with us as we talk about the advantages and disadvantages of contactless fare payment in the TRANSPORT INDUSTRY... **
+Do you find it troublesome to have to take out your wallet/card to tap the gantry every single time your board a bus/ train? Have you ever boarded a bus or entered an MRT station and wished you could just walk past the gantry without having to lift a finger to take out your wallet to tap at the gantry? Well that dream of yours may not be that far in the future as you might think.. With the invention of NFC.. That dream would definitely be possible.. In this article we would be focusing more on the contactless fare payment in the TRANSPORT INDUSTRY! So prepare to take the ride with us as we talk about the advantages and disadvantages of contactless fare payment in the TRANSPORT INDUSTRY...
  
 ### **So What is contactless fare payment?**
 
