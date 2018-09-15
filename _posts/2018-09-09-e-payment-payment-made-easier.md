@@ -25,7 +25,7 @@ Electronic payment will be convenient for the consumer, us. In most cases, we wi
 
 At this point, you may think: How great this E-payment is! Why don’t we use it in Singapore all the time?  Well, the problem is that no online payment platform can be 100% safe. It may have the latest security technology software, but elsewhere there will be money-hungry people with excellent hacking knowledge who work round the clock to get your money and personal information. In addition, developing the software and the equipment for this technology service is costly, which every government may not be able to afford for the country.
 
-###E-payment in Singapore?
+### E-payment in Singapore?
 
 There are already some forms of E-payment in Singapore, like PayNow, which has been implemented since the end of 2017. However, most residents don’t actively advocate the use of these E-payments and many stick to the classic credit card or cash, not having been fully exposed to how to use E-payment services and the benefits of E-payment services. Not only that, but the recent SingHealth security breach has made many residents question about their online information safety and privacy. 
 
@@ -49,4 +49,4 @@ This brings us to the end of this essay about E-payment. Thank you!
 
 [image-1]: {{ "/assets/img/2018-09-09-e-payment-payment-made-easier-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-09-09-e-payment-payment-made-easier-2.png" | absolute_url }}
-[image-3]: {{ "/assets/img/2018-09-09-e-payment-payment-made-easier-3.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2018-09-09-e-payment-payment-made-easier-3.jpg" | absolute_url }}
