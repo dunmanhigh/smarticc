@@ -1,7 +1,7 @@
 ---
 title: Google App Maker
 categories: tutorial
-tags: app development
+tags: "app development"
 authors: Lam Yik Ting, He Ziqi, Jake Kee Chong Han
 image: "/assets/img/2018-09-09-google-appmaker-preview.jpg"
 questions:
