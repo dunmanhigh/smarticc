@@ -34,7 +34,7 @@ questions:
 ![][image-1]
 
  
-##**Digital Government?**
+## **Digital Government?**
 
 According to the Smart Nation Website : *“The Public Service will transform into a Digital Government that delivers services with citizens at the heart of it. Agencies are **re-designing online services and underlying processes to make them simpler to use and easier to access**, including providing more services on mobile devices! A number of tech-enabled platforms have also been developed to **make transacting with the Government easier and more seamless**.”*
 
@@ -44,7 +44,7 @@ According to the Smart Nation Website : *“The Public Service will transform in
 
 
 
-##First on the chopping board...**MyInfo**
+## First on the chopping board...**MyInfo**
 
 
 ![][image-2]
@@ -91,7 +91,9 @@ More government digital services have been added progressively since it was roll
 However, although all of **these tech-enabled platforms have made our lives easier by removing the things that can be and should be done by technology** such as *filling out forms with all of our information repeatedly though it is for the same entity (the government) but for slightly different objectives*. This would help **take the mundane task out of our hands**. However, with all good solutions to current problems, there must be additional problems that arise from these solutions. One of such problems include **the increased possibility of being hacked by hackers** due to the fact that *there is a lot of information (the information of businesses and other entities and even personal individual’s information) that could be hacked and taken away*. One such example is *this july, hackers hacked the health ministry database which leaked 1.5 million peoples’ information*. Data taken include names and addresses but not medical records, other than medicines dispensed in some cases. **This proves that hacking government websites and platforms is very possible and has happened at least 3 times over the past 2 years**. Hence, if these platforms were to be successful and safe, **a lot of data protection and encryption needs to be made and updated regularly** such that hackers would have a hard time to hack the platforms and get our precious personal data no matter how deliberate, targeted and well-planned the attack is. 
 
 
-## Finally let’s take a look at what other tech-enabled platforms/ service could be coming in the future. One example is …… **Conversational Computing for public services**
+Finally let’s take a look at what other tech-enabled platforms/service could be coming in the future. One example is …… 
+
+> **Conversational Computing for public services**
 
 
 The Government is moving towards the next leap of digital engagement, **beyond apps to conversational computing and voice-enabled services.**

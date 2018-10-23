@@ -17,7 +17,8 @@ questions:
     correct: false
 ---
 
-**Who you call and what apps you use could determine what ads you see**
+## **Who you call and what apps you use could determine what ads you see**
+
 It turns out that Facebook could in fact use data collected from its Portal in-home video device
 to target you with ads.
 
@@ -71,6 +72,6 @@ with a new in-home device equipped with microphones and a video camera is even m
 important.
 
 Source:
-[The Verge] (https://www.theverge.com/tech)
+[The Verge](https://www.theverge.com/tech)
 
 [image-1]:{{"/assets/img/2018-10-20-does-facebook-really-target-you-with-ads-1.jpg" | absolute_url }}
