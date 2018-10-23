@@ -28,7 +28,7 @@ questions:
 - question: "How do you think the future of the idea of digital government would play out?" # open-ended, no answers
 ---
 
-** We have been talking about Smart Nation Initiatives for quite some time now and the government has been pushing at it for quite some time and even have a [website](https://www.smartnation.sg/) stating all of these Smart Nation Initiatives that the government has implemented. Hence, in this article, we shall discuss about *how digital is the government really*? **
+**We have been talking about Smart Nation Initiatives for quite some time now and the government has been pushing at it for quite some time and even have a [website](https://www.smartnation.sg/) stating all of these Smart Nation Initiatives that the government has implemented. Hence, in this article, we shall discuss about *how digital is the government really*?**
 
 
 ![][image-1]

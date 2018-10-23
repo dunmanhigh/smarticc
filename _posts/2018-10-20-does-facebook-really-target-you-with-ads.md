@@ -74,4 +74,4 @@ important.
 Source:
 [The Verge](https://www.theverge.com/tech)
 
-[image-1]:{{"/assets/img/2018-10-20-does-facebook-really-target-you-with-ads-1.jpg" | absolute_url }}
+[image-1]: {{"/assets/img/2018-10-20-does-facebook-really-target-you-with-ads-1.jpg" | absolute_url }}

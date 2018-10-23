@@ -40,6 +40,9 @@ So what now? How do I learn more about AI and its capabilities? Well, we have ju
 
 Log onto [lynda.com](lynda.com) and go to this [link](https://www.lynda.com/Data-Science-tutorials/Artificial-Intelligence-Foundations-Thinking-Machines/601798-2.html). This is what you would see:
 
-![artificial intelligence](/assets/img/2018-10-20-what-is-artificial-intelligence-1.png)
+![][image-1]
 
 Next, just start the course, after all the course is free and you can watch and learn from the videos during your own free time. Upon completion of the course, you would have a better idea of what exactly is Artificial Intelligence and how to make use of it in your lives. You can also attempt the questions below after you have gone through the course.
+
+
+[image-1]: {{ "/assets/img/2018-10-20-what-is-artificial-intelligence-1.png" | absolute_url }}
