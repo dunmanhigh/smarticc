@@ -6,15 +6,15 @@ author: Chou Bi Yu, Leonard Lee-Ralph Lim Yue Tai, Loh Jun Kai
 image: "/assets/img/2018-10-20-does-facebook-really-target-you-with-ads-preview.jpg"
 questions:
 - question: "What is the name of the device that Facebook has released recently?"
-	answer:
-	- text: "Portal"
-	correct: true
-	- text: "Recode"
-	correct: false
-	- text: "Alexa"
-	correct: false
-	- text: "Bixby"
-	correct: false
+  answer:
+  - text: "Portal"
+    correct: true
+  - text: "Recode"
+    correct: false
+  - text: "Alexa"
+    correct: false
+  - text: "Bixby"
+    correct: false
 ---
 
 **Who you call and what apps you use could determine what ads you see**
