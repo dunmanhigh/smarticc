@@ -2,7 +2,7 @@
 title: 近场通讯(Near-field communication)
 categories: article
 tags: communication technology
-authors: Xu Xicheng, Yu Chenbo
+author: Xu Xicheng, Yu Chenbo
 image: "/assets/img/2018-10-20-near-field-communication-preview.png"
 questions:
 - question: "请问近场通讯技术较蓝牙技术有什么优势和缺陷？" # open-ended, no answers
