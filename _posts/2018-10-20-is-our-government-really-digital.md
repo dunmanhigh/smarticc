@@ -100,6 +100,8 @@ The Government is moving towards the next leap of digital engagement, **beyond a
 
 Amongst other efforts, Singapore is partnering [Microsoft](https://news.microsoft.com/en-sg/2016/07/12/singapore-to-explore-next-generation-digital-government-services-with-conversations-as-a-platform-proof-of-concept/#sm.0000168ag6odescnwuqg8rae7pzhe) on “Conversations as a Platform” to explore opportunities in co-creating next-generation digital government services, this includes the **use of intelligent software programmes known as chatbots, for selected public services where appropriate**.
 
+### Quiz Time!
+To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://goo.gl/forms/0GMHsskxUFTvF3SD2). 
 
 [image-1]: {{ "/assets/img/2018-10-20-is-our-government-really-digital-preview-1.jpg" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-10-20-is-our-government-really-digital-preview-2.png" | absolute_url }}

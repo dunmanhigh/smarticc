@@ -50,11 +50,13 @@ However, unlike computer viruses and worms, Trojans generally do not attempt to 
 
 In conclusion, Trojan horse is a type of malware and that one just has to take the few and simple steps above and a Trojan horse can be prevented and all of your data and privacy would be saved!
 
-## Extra links!
+### Extra links!
 [Trojan horse_wikipedia](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 [Avoiding a Trojan Virus: Keeping the Gates Closed](https://www.kaspersky.com/resource-center/preemptive-safety/avoiding-a-trojan-virus)
 [Trojan horse-intro](https://www.youtube.com/watch?v=CvRIZHQMgco)
 
+### Quiz Time!
+To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://goo.gl/forms/5mfSasyot8VrotnO2).  
 
 [image-1]: {{ "/assets/img/2018-10-20-hacked-..-trojan-horse-1.jpg" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-10-20-hacked-..-trojan-horse-3.png" | absolute_url }}

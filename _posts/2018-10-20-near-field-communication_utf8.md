@@ -27,6 +27,8 @@ questions:
 
 然而，近场通讯的缺点在于信息无法被加密。因而，如果支付信息被犯罪分子截获，则会为使用者带来经济损失。
 
+在阅读了文篇文章之后，你是否也想考验考验自己学到了什么吗？或是赢取小奖励？那么不妨点击此[链接](https://goo.gl/forms/1KKjeE7h0V84nfA82)，完成一个在Google Form中的小测试！
+
 Ref.
 [http://www.rfsister.com/article/23537279.html](http://www.rfsister.com/article/23537279.html)
 

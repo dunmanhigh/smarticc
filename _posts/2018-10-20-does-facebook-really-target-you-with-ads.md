@@ -71,6 +71,9 @@ and how that data is used — has been a challenge for the company. Properly exp
 with a new in-home device equipped with microphones and a video camera is even more
 important.
 
+### Quiz Time!
+To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://goo.gl/forms/r2TUSw9zIjvZwl1t1).  
+
 Source:
 [The Verge](https://www.theverge.com/tech)
 
