@@ -3,7 +3,7 @@ title: Virtual Companion
 categories: article
 tags: ai
 authors : Chiang Yu Hsuan
-image: "/assets/2018-10-20-virtual-companion-preview.png"
+image: "/assets/img/2018-10-20-virtual-companion-preview.png"
 questions:
 - question: "Which technology is not used in Virtual Companion?"
   answer:
@@ -60,7 +60,6 @@ However, the amount of data a human works with to come up with these decisions w
 That said, I am hopeful after seeing the amount of progress we have made over these few years, from chatbots to the Gatebox not only sends out caring messages to the user by text but is also able to respond to voice commands and even help out by controlling appliances with the internet of things (IOT) function.
 
 ![Miku as a character in the Gatebox][image-5]
-![Messages from the Gatebox (Right)][image-6]
 
 
 [image-1]: {{ "/assets/img/2018-10-20-virtual-companion-1.png" | absolute_url }}
@@ -68,4 +67,3 @@ That said, I am hopeful after seeing the amount of progress we have made over th
 [image-3]: {{ "/assets/img/2018-10-20-virtual-companion-3.png" | absolute_url }}
 [image-4]: {{ "/assets/img/2018-10-20-virtual-companion-4.png" | absolute_url }}
 [image-5]: {{ "/assets/img/2018-10-20-virtual-companion-5.png" | absolute_url }}
-[image-6]: {{ "/assets/img/2018-10-20-virtual-companion-6.png" | absolute_url }}
