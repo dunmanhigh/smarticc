@@ -2,7 +2,7 @@
 title: Virtual Companion
 categories: article
 tags: ai
-authors : Chiang Yu Hsuan
+author: Chiang Yu Hsuan
 image: "/assets/img/2018-10-20-virtual-companion-preview.png"
 questions:
 - question: "Which technology is not used in Virtual Companion?"

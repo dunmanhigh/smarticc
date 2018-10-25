@@ -2,7 +2,7 @@
 title: Does Facebook really target you with ads?
 categories: article
 tags: ads tech
-author: Chou Bi Yu, Leonard Lee-Ralph Lim Yue Tai, Loh Jun Kai
+author: Chou Bi Yu, Leonard Lee, Ralph Lim Yue Tai, Loh Jun Kai
 image: "/assets/img/2018-10-20-does-facebook-really-target-you-with-ads-preview.jpg"
 questions:
 - question: "What is the name of the device that Facebook has released recently?"
