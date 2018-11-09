@@ -1,9 +1,21 @@
+.hidden {
+	display: none;
+}
+
+#auth {
+	padding: 2em;
+	border-radius: 10px;
+	background: 
+		linear-gradient(45deg, rgba(39, 64, 112, 0.4), rgba(51, 92, 129, 0.6)),
+		linear-gradient(-45deg, rgba(50, 115, 220, 0.5), rgba(186, 193, 184, 0.4));
+}
+
 .quiz {
 	padding: 2em;
 	border-radius: 10px;
 	background: 
 		linear-gradient(45deg, rgba(39, 64, 112, 0.4), rgba(51, 92, 129, 0.6)),
-		linear-gradient(-45deg, rgba(50, 115, 220, 0.5), rgba(186, 193, 184, 0.4))
+		linear-gradient(-45deg, rgba(50, 115, 220, 0.5), rgba(186, 193, 184, 0.4));
 }
 
 #quiz__completed {
@@ -28,6 +40,19 @@
 
 #quiz__finale {
 	display: none;
+}
+
+#auth__signin-button {
+	padding: 1em;
+	margin: 1em;
+	word-break: break-word;
+	word-wrap: break-word;
+	background: #9EA4A0;
+	color: #002e2e;
+	border: #ffffee 1px solid;
+	width: 10em;
+	text-align: center;
+	cursor: pointer;
 }
 
 .quiz__answer {
@@ -57,6 +82,7 @@
 	background: #bac1b8;
 	color: #002e2e;
 	border: #ffffee 1px solid;
+	cursor: text;
 }
 
 /* START: classes added by script in _includes/quiz */
