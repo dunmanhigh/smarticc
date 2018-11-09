@@ -36,7 +36,7 @@
 	word-break: break-word;
 	word-wrap: break-word;
 	background: #bac1b8;
-	color: #fffeee;
+	color: #002e2e;
 	border: #ffffee 1px solid;
 	cursor: pointer; 
 }
@@ -49,6 +49,14 @@
 		width: 100%;
 		word-wrap: break-word;
 	}
+}
+
+.quiz__answer--openend {
+	padding: 1em;
+	margin: 1em;
+	background: #bac1b8;
+	color: #002e2e;
+	border: #ffffee 1px solid;
 }
 
 /* START: classes added by script in _includes/quiz */

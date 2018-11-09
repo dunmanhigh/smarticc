@@ -7,9 +7,14 @@
         <div class="quiz__question">
             <h2>{{ question.question }}</h2>
             <div class="quiz__answer-list">
-                {% for answer in question.answers %}
-                <div class="quiz__answer" data-correct="{{ answer.correct }}" onclick="handleClick(this)">{{ answer.text }}</div>
-                {% endfor %}
+                {% if question.answer %}
+                    {% for answer in question.answer %}
+                    <div class="quiz__answer" data-correct="{{ answer.correct }}" onclick="handleClick(this)">{{ answer.text }}</div>
+                    {% endfor %}
+                {% else %}
+                    <input class="quiz__answer quiz__answer--openend" type="text" placeholder="Your answer here...">
+                    <div class="quiz__answer">Submit</div>
+                {% endif %}
             </div>
         </div>
         {% endfor %}
