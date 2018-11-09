@@ -1,0 +1,63 @@
+.quiz {
+	padding: 2em;
+	border-radius: 10px;
+	background: 
+		linear-gradient(45deg, rgba(39, 64, 112, 0.4), rgba(51, 92, 129, 0.6)),
+		linear-gradient(-45deg, rgba(50, 115, 220, 0.5), rgba(186, 193, 184, 0.4))
+}
+
+#quiz__completed {
+	opacity: 0.5;
+}
+
+.quiz__answer-list {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+#quiz__in-progress .quiz__question {
+	display: none;
+}
+
+#quiz__in-progress .quiz__question:first-child {
+	display: block;
+}
+
+#quiz__finale {
+	display: none;
+}
+
+.quiz__answer {
+	padding: 1em;
+	margin: 1em;
+	word-break: break-word;
+	word-wrap: break-word;
+	background: #bac1b8;
+	color: #fffeee;
+	border: #ffffee 1px solid;
+	cursor: pointer; 
+}
+
+@media screen and (max-width: 600px) {
+	.quiz__answer-list {
+		justify-content: center;
+	}
+	.quiz__answer {
+		width: 100%;
+		word-wrap: break-word;
+	}
+}
+
+/* START: classes added by script in _includes/quiz */
+/* if you change names here, change them there too */
+.quiz__answer--correct {
+	background: #0c7c59;
+}
+
+.quiz__answer--wrong {
+	background: #d64933;
+}
+/* END classes added by script */
