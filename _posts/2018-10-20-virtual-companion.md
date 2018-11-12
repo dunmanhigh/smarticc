@@ -65,8 +65,6 @@ That said, I am hopeful after seeing the amount of progress we have made over th
 ### Quiz Time!
 To test yourself on what you have learnt from the articles in the website and stand a chance to win some prizes and online achievement tokens, you can spend less than five minutes answering some easy questions at the Google Form [here](https://goo.gl/forms/1KKjeE7h0V84nfA82). 
 
-{% include quiz.html questions=page.questions %}
-
 [image-1]: {{ "/assets/img/2018-10-20-virtual-companion-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2018-10-20-virtual-companion-2.png" | absolute_url }}
 [image-3]: {{ "/assets/img/2018-10-20-virtual-companion-3.png" | absolute_url }}
