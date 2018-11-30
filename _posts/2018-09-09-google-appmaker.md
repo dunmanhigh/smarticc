@@ -34,7 +34,7 @@ Applications have various impacts on our lives and it would be a waste to just i
 
 So, are you interested in learning and making your own app? Here’s your chance! Google just launched a new website called appmaker.google.com and you can use your own Google account to start an app!
 
-You can just head to the website at [Google AppMaker1](https://appmaker.google.com/#), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
+You can just head to the website at [Google AppMaker](https://appmaker.google.com/#), login using your gmail account and start creating apps! To start you up, there is a tutorial to teach you how to use the software!
 
 ![][image-1]
 
