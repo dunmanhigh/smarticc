@@ -5,15 +5,15 @@ tags: app technology hotel
 author: Chou Bi Yu, Leonard Lee-Ralph Lim Yue Tai, Loh Jun Kai
 questions:
 - question: "Who has Wechat partnered with to open a smart hotel in Shanghai?"
-	answer:
-	- text: "Google"
-	correct: false
-	- text: "Tencent"
-	correct: false
-	-text: "InterContinental"
-	correct: true
-	-text: "Microsoft"
-	correct: false
+  answer:
+  - text: "Google"
+    correct: false
+  - text: "Tencent"
+    correct: false
+  - text: "InterContinental"
+    correct: true
+  - text: "Microsoft"
+    correct: false
 ---
 ## **A WeChat-powered hotel in China and LA lets you check in, enter your room, and get breakfast through your phone**
 China’s biggest app, WeChat, partnered with InterContinental to open a smart hotel in Shanghai that lets users book rooms, remotely check in, and use their phones as key cards — all without requiring human assistance. Once they’ve completed their reservation, travelers verify their identity at the hotel through facial recognition and collect their digital key card. Although the hotel is 88 feet underground, it’s connected enough to provide quick internet services, according to a press release it shared with The Verge.
