@@ -1,7 +1,7 @@
 ---
 title: Recognising patterns with Regex
 categories: tutorial
-tags: "data processing"
+tags: "data"
 authors: Lim Yong Jun
 image: "/assets/img/2018-11-15-recognising-patterns-with-regex-preview.png"
 ---
