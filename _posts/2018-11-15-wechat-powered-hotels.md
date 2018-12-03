@@ -3,6 +3,7 @@ title: Wechat Powered Hotels
 categories: article
 tags: app tech hotel
 author: Chou Bi Yu, Leonard Lee-Ralph Lim Yue Tai, Loh Jun Kai
+image: "/assets/img/2018-11-15-wechat-powered-hotels-1.png"
 questions:
 - question: "Who has Wechat partnered with to open a smart hotel in Shanghai?"
   answer:
@@ -45,6 +46,6 @@ The collaboration with Ceasars is one of many projects WeChat is using to study 
 Can you think of any other ways technology has been implemented in our daily lives?
 
 [image-1]:{{"/assets/img/2018-11-15-wechat-powered-hotels-1.jpg" | absolute_url }}
-[image-2]:{{"/assets/img/2018-11-15-wechat-powered-hotels-2.jpg" | absolute_url }}
+[image-2]:{{"/assets/img/2018-11-15-wechat-powered-hotels-2.png" | absolute_url }}
 
 {% include quiz.html questions=page.questions %}
