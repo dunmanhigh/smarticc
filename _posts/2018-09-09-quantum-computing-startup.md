@@ -1,7 +1,7 @@
 ---
 title: Quantum Computing Startup Announces New Quantum Computing Platform 
 categories: article
-tags: tech business
+tags: tech business news
 author: Ong Teng Wee
 image: "/assets/img/2018-09-09-quantum-computing-startup-preview.jpg"
 questions:
