@@ -1,7 +1,7 @@
 ---
 title: 无线充电技术 (Wireless Charging Technology)
 categories: article
-tags: tech technology wireless 
+tags: tech wireless 
 author: Yu Chenbo, Xu Xicheng, Leo Qiyi Joel
 image: "/assets/img/2018-11-15-Wireless-Charging-Technology-1.png"
 questions:

@@ -1,7 +1,7 @@
 ---
 title: Wechat Powered Hotels
 categories: article
-tags: app technology hotel
+tags: app tech hotel
 author: Chou Bi Yu, Leonard Lee-Ralph Lim Yue Tai, Loh Jun Kai
 questions:
 - question: "Who has Wechat partnered with to open a smart hotel in Shanghai?"

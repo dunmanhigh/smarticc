@@ -1,7 +1,7 @@
 ---
 title: 近场通讯(Near-field communication)
 categories: article
-tags: communication technology
+tags: communication tech
 author: Xu Xicheng, Yu Chenbo
 image: "/assets/img/2018-10-20-near-field-communication-preview.png"
 questions:
