@@ -1,4 +1,4 @@
-﻿---
+---
 title: Is Incognito really that safe?
 categories: article
 tags: internet security
