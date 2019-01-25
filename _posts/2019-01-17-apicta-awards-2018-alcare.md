@@ -3,7 +3,7 @@ title: APICTA Awards 2018 - Team AICare
 categories: article
 tags: recount
 author: Long Ji Yao Arthur, Poh Say Keong, Tai Chee Hian
-image: "/assets/img/2018-11-15-apicta-awards-2018-verinews-preview.png"
+image: "/assets/img/2018-11-15-apicta-awards-2018-verinews-preview.jpg"
 ---
 
 ## About AICare
