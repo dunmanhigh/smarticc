@@ -1,4 +1,3 @@
-# Python Pong Tutorial
 ---
 title: Simple Pong Game using Pygame
 categories: tutorial
