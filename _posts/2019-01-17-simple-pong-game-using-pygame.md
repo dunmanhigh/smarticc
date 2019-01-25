@@ -3,7 +3,7 @@ title: Simple Pong Game using Pygame
 categories: tutorial
 tags: game-dev python
 author: Zenon Hans Taneka
-image: "/assets/img/2018-01-17-simple-pong-game-using-pygame-preview.png"
+image: "/assets/img/2019-01-17-simple-pong-game-using-pygame-preview.png"
 ---
 
 Pong is a classic game that has been played by generations of people. It is a virtual form of the sports ping pong or table tennis.
