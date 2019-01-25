@@ -42,6 +42,6 @@ Personally, I was impressed with the projects of a team of primary school studen
 ### Tai Chee Hian
 Going to attend a major event like APICTA was definitely an eye-opener and the highlight of my year. First of all, we got to meet teams from other countries who were just as passionate about computing as us, making some friends in the process. Their projects and innovation were also very impressive. Secondly, this being my first time in Guangzhou, i got to experience not only the amazing sights such as the the Canton Tower, but also the technological advancement there. Thirdly, the judging process gave us some good insight on the industry standards that we were lacking and also how to improve on our project to make it production ready. Finally, during the prize presentation i realised that many of the winning teams were from a few specific countries such as Bangladesh and Sri lanka, and that we had to up our game in this industry inorder to compete with them.
 
-[image-1]:{{ "/assets/img/2019-01-17-apicta-awards-2018-alcare-1.png" | absolute_url}}
+[image-1]:{{ "/assets/img/2019-01-17-apicta-awards-2018-alcare-1.jpg" | absolute_url}}
 [image-2]:{{ "/assets/img/2019-01-17-apicta-awards-2018-alcare-2.jpg" | absolute_url}}
 [image-3]:{{ "/assets/img/2019-01-17-apicta-awards-2018-alcare-3.jpg" | absolute_url}}
