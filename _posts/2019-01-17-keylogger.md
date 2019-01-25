@@ -12,7 +12,7 @@ image: "/assets/img/2019-01-17-keylogger-preview.png"
 ![][image-1]
 
 
-### **Scared that whatever you type on your computer or desktop could be tracked by an unknown person and he/she would hence know ALL of your secrets? Well... the threat of that happening is more real than ever! Ever heard of keylogger malware? If you do not know .. well you are in luck! Continue to read on this episode of "WhatTheHack?" to learn more about keylogger malware!**
+Scared that whatever you type on your computer or desktop could be tracked by an unknown person and he/she would hence know ALL of your secrets? Well... the threat of that happening is more real than ever! Ever heard of keylogger malware? If you do not know .. well you are in luck! Continue to read on this episode of "WhatTheHack?" to learn more about keylogger malware!
 
 
 
