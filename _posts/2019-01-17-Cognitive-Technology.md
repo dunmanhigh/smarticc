@@ -3,6 +3,7 @@ title: 认知技术(Cognitive Technology)
 categories: article
 tags: tech AI
 author: Xu Xicheng, Yu Chenbo, Shen Hanzhang
+image: "/assets/img/2019-1-17-cognitive-technology-preview.png"
 ---
 
 什么是认知技术？认知技术是计算机科学的一个领域。它是人工智能技术的一部分，可以通过各种手段模仿人脑的功能，例如语言处理、数据挖掘和图像识别等。它将在接下来的几十年中对人类的科技发展造成重大影响，尤其在自动化、机器学习和信息技术中。
@@ -20,7 +21,7 @@ author: Xu Xicheng, Yu Chenbo, Shen Hanzhang
 ![][image-2]
 
 
-了解更多资讯，请点击https://www2.deloitte.com/insights/us/en/deloitte-review/issue-16/cognitive-technologies-business-applications.html
+了解更多资讯，请点击[这里](https://www2.deloitte.com/insights/us/en/deloitte-review/issue-16/cognitive-technologies-business-applications.html)
 
 
 [image-1]: {{ "/assets/img/2019-1-17-cognitive-technology-1.png" | absolute_url }}

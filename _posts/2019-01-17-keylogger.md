@@ -41,7 +41,7 @@ So firstly .... keylogger is a type of software that does keystroke logging! Key
 6. a hardware keylogger (usually in a usb) could be plucked into the computer and start logging the keystrokes
 
 
-## ** So how can you prevent Keylogger malware/trojan?**
+## **So how can you prevent Keylogger malware/trojan?**
 1. Many many times a keylogger malware is spread through trojan horses, hence as long as one prevents trojan horses from being installed into their computer like not to respond or click into phishing emails/suspicious emails, etc, and hence the keylogger malware would not exist on the computer! [Click here to check out a previous episode of "WhatTheHack?" on Trojan Horses and how to prevent it!](https://dunmanhigh.github.io/smarticc/2018/10/20/trojan-horse)
 
 2. Do not allow foreign people to plug in foreign USB devices into your computer without knowing what exactly is inside as it could be a hardware keylogger!
@@ -58,7 +58,7 @@ So firstly .... keylogger is a type of software that does keystroke logging! Key
  **In conclusion**,  _Keylogger_ is **a type of software that could remain harmless if used correctly but once it lands into the evil hands of a hacker.. it could be very well be one of the worst malwares alive!** However, one just has to take the few and simple steps above and Browser Hijacking can be prevented and all of your data and privacy would be saved! 
 
 
- ** On the next episode of "WhatTheHack?", we would be exploring on what the hack is a _Phishing Email_, how it can affect you (if you fall for its trap) and how you can spot it!! SO STAY TUNED FOR MORE HACKING/COMPUTING TERMS AND KNOWLEDGE ON "WhatTheHack?" **
+ **On the next episode of "WhatTheHack?", we would be exploring on what the hack is a _Phishing Email_, how it can affect you (if you fall for its trap) and how you can spot it!! SO STAY TUNED FOR MORE HACKING/COMPUTING TERMS AND KNOWLEDGE ON "WhatTheHack?"**
 
 
 ## Extra links for you to improve your knowledge on keyloggers:
@@ -69,7 +69,6 @@ So firstly .... keylogger is a type of software that does keystroke logging! Key
 
 ## Want to take a quick look at some equally exciting previous "WhatTheHack?" articles?
 1. [Episode 1:Trojan Horse?](https://dunmanhigh.github.io/smarticc/2018/10/20/trojan-horse)
-***
 
 
 [image-1]: {{ "/assets/img/2019-01-17-keylogger-1.jpeg" | absolute_url }}
