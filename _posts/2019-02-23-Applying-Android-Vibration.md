@@ -45,6 +45,7 @@ public class MainActivity extends Activity {
 ```
 As we can see from the last line of the code, we have asked the vibrator to vibrate for 2000 miliseconds.
 **But after we try this on our phone, there is one more issue, the viration is too strong!**
+
 --------------------- 
 ### Method 2
 
