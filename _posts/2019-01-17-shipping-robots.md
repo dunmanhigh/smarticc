@@ -2,7 +2,7 @@
 title: Autonomous Robots - Shipping Robots
 categories: article
 tags: tech robot
-author: Vicky
+author: Vicky Ang
 image: "/assets/img/2019-01-17-shipping-robots-preview.png"
 ---
 
@@ -30,7 +30,7 @@ As of now, there are a considerable number of companies developing autonomous ro
 
 In summary, despite their capabilities, autonomous robots still have quite a long way to go before they become an almost ‘flawless’ mode of delivery. Although they are scarce, the rapidly advancing technological age now could make them a big hit soon.
 
-
+## Further Readings
 If you want to find out more on these robots, feel free to visit some of this links:
 1. [A blog post weighing the advantages and disadvantages of these robots.](https://www.tbcfrance.com/en/blog/posts/2018/february/10-advantages-and-5-downsides-of-autonomous-securityrobots/)
 2. [Examples of robots that are in the process of designing and releasing.](https://www.zdnet.com/pictures/11-delivery-robots-that-will-soon-carry-food-and-packages-to-yourdoor)
