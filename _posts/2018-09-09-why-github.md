@@ -1,7 +1,7 @@
 ---
 title: Why Github?
 categories: article
-tags: tech git
+tags: open-source
 author: Chen Yiyang
 image: "/assets/img/2018-09-09-why-github-preview.jpg"
 questions:

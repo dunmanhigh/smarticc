@@ -1,7 +1,7 @@
 ---
 title: WhatTheHack? Keylogger?
 categories: article
-tags: privacy security hacked
+tags: privacy security
 author: Chen Xinyi, Leo Qiyi Joel, Kok Wei En Isaac
 image: "/assets/img/2019-01-17-keylogger-preview.png"
 ---

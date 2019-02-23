@@ -1,7 +1,7 @@
 ---
 title: WhatTheHack? Browser Hijacking?
 categories: article
-tags: privacy security hacked
+tags: privacy security
 author: Chen Xinyi, Leo Qiyi Joel, Kok Wei En Isaac
 image: "/assets/img/2018-11-15-Browsing-Hijacking-1.png"
 questions:

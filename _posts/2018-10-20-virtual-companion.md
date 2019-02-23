@@ -1,7 +1,7 @@
 ---
 title: Virtual Companion
 categories: article
-tags: ai
+tags: AI
 author: Chiang Yu Hsuan
 image: "/assets/img/2018-10-20-virtual-companion-preview.png"
 questions:

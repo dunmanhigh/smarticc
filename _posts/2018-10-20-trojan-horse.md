@@ -1,7 +1,7 @@
 ---
 title: Hacked.. Trojan horse?
 categories: article
-tags: privacy security hacked
+tags: privacy security
 author: Kimi Yap, Tan Rui Yang, Ethan Koh
 image: "/assets/img/2018-10-20-hacked-..-trojan-horse-preview.png"
 questions:
