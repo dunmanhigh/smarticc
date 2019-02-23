@@ -3,6 +3,7 @@ title: Applying Android Vibration
 categories: tutorial
 tags: java android
 author: Dai Tianle
+image: "/assets/img/2019-02-23-Applying-Android-Vibration.png"
 ---
 
 # Vibration in andoird
