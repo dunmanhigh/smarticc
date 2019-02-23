@@ -134,7 +134,9 @@ long[] mVibratePattern4 = new long[]{0, 1, 20, 21,500,600};
 
 **Thanks for reading~ HOOYAH!**
 References:
+
 *Google  [https://developer.android.com/reference/android/os/Vibrator](https://developer.android.com/reference/android/os/Vibrator)*
+
 *ProAndroiddev   [https://proandroiddev.com/using-vibrate-in-android-b0e3ef5d5e07](https://proandroiddev.com/using-vibrate-in-android-b0e3ef5d5e07)*
 	
 	
