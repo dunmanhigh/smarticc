@@ -3,7 +3,7 @@ title: Have you heard of HealthHub?
 categories: article
 tags: app government medical 
 author: Chou Biyu, Loh Jun Kai, Leo Qiyi Joel 
-image: "/assets/img/2019-2-10-healthub-preview.jpg"
+image: "/assets/img/2019-2-23-healthub-preview.jpg"
 ---
 
 Though there are no official robot doctors or nurses, (we aren’t that smart yet) Singapore has come up with some innovative ideas to **educate the public about health and make checkups easier.** _Not so long ago, when going to a hospital, one had to bring a huge stack of identifications._ **Now it’s all in one app - HealthHub!**
@@ -37,7 +37,7 @@ Health hub was released in 2015, an online app that records your recent checkups
 
 ### **_What is the future for this app?_**
 
-The healthhub app was released a few years ago and now many other apps have come up to serve the same purpose as healthhub. Admin matters have been taken into the patients' own hands. _In the near future, it is plausible to see a spike in the increase of this apps as their usefulness becomes more apparent to the public._ **This is an improvement to the convenience of the patients.** However, as we continue to advance into the deeper realms of technology, here's some food for thought (for you to ponder on the next time you see someone using related apps :) ) : 
+The healthhub app was released a few years ago and now many other apps have come up to serve the same purpose as healthhub. Admin matters have been taken into the patients' own hands. _In the near future, it is plausible to see a spike in the increase of this apps as their usefulness becomes more apparent to the public._ **This is an improvement to the convenience of the patients.** However, as we continue to advance into the deeper realms of technology, here's some food for thought, for you to ponder on the next time you see someone using related apps: 
 
 1. With all these records handled by a single app, is there any use of human manpower? 
 
@@ -48,6 +48,6 @@ The healthhub app was released a few years ago and now many other apps have come
 1. [HealthHub launched: 7 things about the new online portal and app](https://www.straitstimes.com/singapore/health/healthhub-launched-7-things-about-the-new-online-portal-and-app)
 2. [HealthHub? What is that?](https://www.smartnation.sg/what-is-smart-nation/initiatives/Health/healthhub)
 
-[image-1]: {{ "/assets/img/2019-2-23-healthub-preview.jpg" | absolute_url }}
-[image-2]: {{ "/assets/img/2019-2-10-healthub-2.png" | absolute_url }}
-[image-3]: {{ "/assets/img/22019-2-10-healthub-3.jpg" | absolute_url }}
+[image-1]: {{ "/assets/img/2019-02-23-healthub-preview.jpg" | absolute_url }}
+[image-2]: {{ "/assets/img/2019-02-23-healthub-1.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2019-02-23-healthub-2.jpg" | absolute_url }}
