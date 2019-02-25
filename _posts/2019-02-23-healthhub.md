@@ -3,7 +3,7 @@ title: Have you heard of HealthHub?
 categories: article
 tags: app government medical 
 author: Chou Biyu, Loh Jun Kai, Leo Qiyi Joel 
-image: "/assets/img/2019-2-23-healthub-preview.jpg"
+image: "/assets/img/2019-02-23-healthub-preview.jpg"
 ---
 
 Though there are no official robot doctors or nurses, (we aren’t that smart yet) Singapore has come up with some innovative ideas to **educate the public about health and make checkups easier.** _Not so long ago, when going to a hospital, one had to bring a huge stack of identifications._ **Now it’s all in one app - HealthHub!**
