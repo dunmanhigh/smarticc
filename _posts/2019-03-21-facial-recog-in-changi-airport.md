@@ -6,7 +6,9 @@ author: Tse Min Jia, Jake Kee Chong Han, Kok Wei En Issac, He Ziqi, Lim Yu Wei
 image: "/assets/img/2019-03-21-facial-recog-in-changi-airport-preview.jpg"
 ---
 
-Singapore's Changi Airport Terminal 4 uses facial recognition technology to offer self-service options at check-in, bag drop, immigration and boarding, providing authentication for each passenger’s identity by essentially comparing the portrait on a digitised biometric passport with the holder’s face.
+Singapore's Changi Airport Terminal 4 uses facial recognition technology to offer self-service options.
+
+The technology is used at check-in, bag drop, immigration and boarding, providing authentication for each passenger’s identity by essentially comparing the portrait on a digitised biometric passport with the holder’s face.
  
 By automating the processes and checks for the departure journey, what results is an enhanced airport experience for passengers who will encounter shorter queues and greater flexibility to check-in at their own convenience. There is also greater security for passengers and improved productivity for staff who can be redeployed to take on other roles, such as to identify suspicious characters in the airport.
  
