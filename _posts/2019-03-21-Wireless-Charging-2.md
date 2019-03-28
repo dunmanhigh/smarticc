@@ -3,16 +3,7 @@ title: 再谈无线充电技术(wireless charging technology)
 categories: article
 tags: technology wireless charging
 author: Yu Chenbo, Shen Hanzhang, Chou Bi Yu, Vicky Ang Xin En, Lim Ming Ian
-image: "/assets/img/______insert img file name_________"
-questions:
-- question: "_以下哪个是无线充电技术的应用?"
-answer: 
-- text: "使用手机充电线给手机充电"
-correct: false
-- text: "电动汽车在充电桩旁充电"
-correct: false
-- text: "iPhone设备使用Qi充电座充电"
-correct: true
+image: "/assets/img/2018-11-15-Wireless-Charging-Technology-1.png"
 ---
 
 在去年的一期smartnation中，我们已经提过一次无线充电技术。这次，我们会再谈一谈无线充电技术，对上次的内容进行补充和更详细的解释。
@@ -44,5 +35,5 @@ correct: true
 [链接](https://en.wikipedia.org/wiki/Inductive_charging)
 
 ***
-[image-1]:{{"/assets/65135.jpg" | absolute_url }}
-[image-2]:{{"/assets/img/Inductive_charging.svg.png" | absolute_url }}
+[image-1]:{{"/assets/img/2019-03-21-Wireless-Charging-2-1.jpg" | absolute_url }}
+[image-2]:{{"/assets/img/2019-03-21-Wireless-Charging-2-2.png" | absolute_url }}
