@@ -1,5 +1,5 @@
 ---
-title: BuildingBloCS: By Students, For Students
+title: BuildingBloCS: By Students For Students
 categories: article
 tags: open-source
 author: Ng Lingshan
@@ -7,10 +7,9 @@ image: "/assets/img/2019-03-21-buildingblocs-preview.png"
 ---
 
 ## BuildingBloCS: By Students, For Students
+BuildingBloCS is Singapore's one and only annual computing education outreach programme organised by students from several schools, for students. It was started in 2017 by a group of passionate Dunman High A-Level Computing students who wanted to share their interest in computing science with others. They reached out to computing students from other Junior Colleges (JC) and Polytechnics and after months of plannings and discussions, BuildingBloCS was born. This event is unique in that it gathers individuals from different backgrounds but with a common passion for technology, and provides a platform for them to utilise various their experiences and talents to organise a free-for-all event for fellow students.
 
 ![][image-1]
-
-BuildingBloCS is Singapore's one and only annual computing education outreach programme organised by students from several schools, for students. It was started in 2017 by a group of passionate Dunman High A-Level Computing students who wanted to share their interest in computing science with others. They reached out to computing students from other Junior Colleges (JC) and Polytechnics and after months of plannings and discussions, BuildingBloCS was born. This event is unique in that it gathers individuals from different backgrounds but with a common passion for technology, and provides a platform for them to utilise various their experiences and talents to organise a free-for-all event for fellow students.
 
 In the first year, BuildingBloCS mainly focused on promoting O-Level Computing to younger students as it was a new subject that many were still apprehensive towards. As for those already taking the subject, the event still served as a platform to inspire students to explore other areas of computing beyond what was taught in school. 
 
