@@ -33,7 +33,7 @@ With each year, the blocks are stacking higher. BuildingBloCS 2019 is anticipate
 To learn more about BuildingBloCS'19, do visit its website at this [link](https://buildingblocs.github.io/2019/).
 
 [image-1]: {{ "/assets/img/2019-03-21-buildingblocs-1.png" | absolute_url }}
-[image-2]: {{ "/assets/img/2019-03-21-buildingblocs-2.gng" | absolute_url }}
+[image-2]: {{ "/assets/img/2019-03-21-buildingblocs-2.png" | absolute_url }}
 [image-3]: {{ "/assets/img/2019-03-21-buildingblocs-3.png" | absolute_url }}
 
 
