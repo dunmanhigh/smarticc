@@ -28,8 +28,8 @@ Because of this, RSA uses much larger numbers. The size of the primes in a real 
 
 ![RSA Key Size](https://www.researchgate.net/publication/317159271/figure/fig3/AS:498288885747712@1495812736477/Randomly-generated-2048-bit-encryption-key-Overview-of-encryption-key-structure-9.png)
 
-Hence, here’s the full method of RSA.
-![Encryption and decryption of RSA](https://kifanga.com/wp-content/uploads/2018/08/rsa-algorithm.jpg)
+Hence, here’s the full method of RSA:
+![Encryption and decryption of RSA][image-1]
 
 
 This app is designed to allow users to learn about the process of encryption, through a mini “game”.
@@ -37,10 +37,13 @@ Currently, the algorithm used is the RSA Algorithm.
 Website: [cwcr9029.pythonanywhere.com](cwcr9029.pythonanywhere.com)
 
 ## Help Guide
-1. Get a friend to enter a password, or enter a pin password. Try to keep it only at 6 numbers, as this was done to speed up the encryption process
-2. ![RSA Decryption](http://present5.com/presentation/51ae165feb639f85e7107e1d304041f4/image-47.jpg)
-3. Using the above equation, where the Encrypted Message (C) public key(n), and the private key (d), compute the value of m (which is the encrypted message. You can either use the online calculator provided or your own calculator.
-4. If the message is correct (it should be the pin you or your friend entered), you will be redirected to the success page. If not, try again.
+Get a friend to enter a password, or enter a pin password. Try to keep it only at 6 numbers, as this was done to speed up the encryption process
+![RSA Decryption](http://present5.com/presentation/51ae165feb639f85e7107e1d304041f4/image-47.jpg)
+Using the above equation, where the Encrypted Message (C) public key(n), and the private key (d), compute the value of m (which is the encrypted message. You can either use the online calculator provided or your own calculator.
+If the message is correct (it should be the pin you or your friend entered), you will be redirected to the success page. If not, try again.
+
+
+[image-1]: {{ "/assets/img/2019-04-23-intro-to-rsa-1.jpg" | absolute_url }}
 
 
 
