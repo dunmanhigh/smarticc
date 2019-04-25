@@ -1,9 +1,9 @@
 ---
 title: Introduction to RSA Algorithm for Cybersecurity
-categories: article
+categories: tutorial
 tags: cryptography security
 author: Ryan Chua Wee Chye, Kenneth Koh
-image: "/assets/img/2019-04-23-intro-to-rsa-preview.png"
+image: "/assets/img/2019-04-20-intro-to-rsa-preview.png"
 ---
 
 **The RSA Algorithm is a type of public key, and its main concept can be explained using a lock and key analogy.** By distributing open locks to the messengers, they are able to place their message and lock it up with a publicly distributed key and return it to the owner.
@@ -42,8 +42,7 @@ Get a friend to enter a password, or enter a pin password. Try to keep it only a
 Using the above equation, where the Encrypted Message (C) public key(n), and the private key (d), compute the value of m (which is the encrypted message. You can either use the online calculator provided or your own calculator.
 If the message is correct (it should be the pin you or your friend entered), you will be redirected to the success page. If not, try again.
 
-
-[image-1]: {{ "/assets/img/2019-04-23-intro-to-rsa-1.jpg" | absolute_url }}
+[image-1]: {{ "/assets/img/2019-04-20-intro-to-rsa-1.jpg" | absolute_url }}
 
 
 
