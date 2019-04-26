@@ -24,7 +24,7 @@ questions:
 
 ### **Look at the above picture.. were you shocked about what you saw? Well... phishing emails is a growing problem and is affecting more people with each passing day! Continue to read on this episode of "WhatTheHack?" to learn more about Phishing Emails!**
 
-## **So? In the computing world.. what exactly is a Phishing Emails?**
+## **So? In the computing world.. what exactly is a Phishing Email?**
 
 So firstly .... **Phishing is the _fraudulent attempt to obtain sensitive information such as usernames, passwords and credit card details_ by disguising as a trustworthy entity in an electronic communication, especially targetted at unsuspecting people.**
 
