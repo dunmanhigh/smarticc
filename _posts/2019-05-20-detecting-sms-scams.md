@@ -17,7 +17,9 @@ There have been a rise of loan scams targeting the elderly in recent years. In 2
 ## Where to find our app?
 Our app can be found at this [link](http://bit.ly/smsscam)  
   
-![][image-1]![][image-2]
+![][image-1]
+
+![][image-2]
 
 These are screenshots of our app running on mobile devices. A red box indicates that the text is likely to be scam while a green box indicates that the text is likely to be harmless. Feel free to test out our app by entering some of the suspicious messages that you have received!
 
