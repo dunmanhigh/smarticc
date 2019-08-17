@@ -23,16 +23,17 @@ Granted, some tech is better than other tech. No one needs a Wi-Fi-connected jui
 
 What will the home of the future look like? We took stock of the most exciting tech-forward home products on the market. It's only a matter of time until at least some of these come standard in every home.
 
-##Smart Cooking in the Kitchen
+## Smart Cooking in the Kitchen
+
 Ultimately, the goal of kitchen technology won't be to do the cooking for you. It'll just make you a better cook. Smart ovens such as those from June will be outfitted with cameras and digital thermometers, helping you monitor your food as it bakes. And instead of just hoping the “medium-hot” setting on your gas range is hot enough, smart skillets will take guessing out of the equation by sizzling food at a precise temperature, which you'll set on a connected app.
 Smart refrigerators will help reduce waste by letting you know when the carrots in your fridge are about to go bad, and offer up several recipes for them to boot. The smart fridge from LG will even send cooking instructions to your smart oven. Meanwhile, 3D food printers will help you create intricately shaped pasta, and smart-technology-equipped ice cream makers will automatically sense the hardness of the mixture within and keep it ready until it's sundae time.
 
-##Tech Enters the Bedroom
+## Tech Enters the Bedroom
 ![][image-3]
 The latest wave of home-focused technology is about making everyday life better and easier, and that begins with a good night's sleep. Sleep trackers such as Eight's smart mattress and smartphone apps Sleep Time and Sleep Cyclewill use sensors to measure your sleep metrics, while smart alarm clocks like Amazon's mini Echo will help you begin your day on the right foot with time, weather, and news.
 Once you're up and moving, it's time to get dressed: Your closet will be filled with clothes you don't just wear. They will actually interact with you, tracking health markers and habits. Among them: MadeWithGlove's still-in-development smart gloves, which promise to detect skin temperature and provide heat accordingly. Your clothes might even change shape or color based on your feelings, as will the Sensoree mood sweater.
 
-##Disadvantages?
+## Disadvantages?
 _Reliability_
 A smart home will be extremely reliant on your internet connection. If your connection drops you'll be left with a lot of smart products that won't work. Additionally, wireless signals can possibly be interrupted by other electronics in your home and cause some of your smart products to function slowly or not at all.
 
