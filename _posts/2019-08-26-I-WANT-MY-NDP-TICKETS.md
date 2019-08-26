@@ -3,7 +3,7 @@ title: I WANT MY NDP TICKETS
 categories: article 
 tags: online tech NDP 
 author: Tan Rui Yang, Isaac Kok, Lim Ming Ian 
-images: "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-1.jpg"
+image: "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-1.jpg"
 ---
 
 On episode one of “Our Singapore Bicentennial”, we would be talking about the NDP ticketing system!
@@ -36,5 +36,5 @@ Want to find out more about online ticketing systems? Visit the following links 
 
 
 
-[image-2]: {{ "/assests/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.JPG" | absolute_url }}
-[image-3]: {{ "/assests/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.JPG" | absolute_url }}
+[image-2]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.JPG" | absolute_url }}
+[image-3]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.JPG" | absolute_url }}
