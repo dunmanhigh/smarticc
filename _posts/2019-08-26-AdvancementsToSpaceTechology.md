@@ -3,7 +3,7 @@ title: Advancements To Space Technology
 categories: article
 tags: space 
 author: Matthew Karuna Lim, Saw Ze Dong, He Ziqi
-image: "assets/img/2019-08-26-3D-printing-for-space.jpg"
+image: "assets/img/2019-08-26-3Dprinting-on-space.jpg"
 ---
 ## Introduction
 July 2019 marked the 50th anniversary of the moon landing. While the world has had much scientific and technological advancements since then, let's check out what's new.
@@ -26,5 +26,5 @@ Recently, 3D metal printing was selected to manufacture flight hardware for Boom
 ## Benefits of 3D printing
 3D printing also greatly lowers the cost of commercial space activities by continuing to drive the development of advanced materials, including metal replacement, high-performance polymers and composites. The possibility of 3D printing in space allows the convenience of planet colonization in the near future, which may allow astronauts to conveniently set up facilities and machinery such as rovers. 
 
-[image-1]: {{ "/assets/img/2019-08-26-3D_printed_part" | absolute_url }}
+[image-1]: {{ "/assets/img/2019-08-26-3D_printed_part.jpg" | absolute_url }}
 [image-2]: {{ "/assets/img/2019-08-26-Supersonic_XB-1.jpg" | absolute_url }}
