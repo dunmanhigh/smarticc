@@ -81,6 +81,8 @@ On the next episode of "WhatTheHack?", we would be exploring on what the hack is
 3. [Episode 3:Keylogger?](https://dunmanhigh.github.io/smarticc/2019/01/17/keylogger)
 4. [Episode 4:Adware?](https://dunmanhigh.github.io/smarticc/2019/02/23/adware)
 
+{% include quiz.html questions=page.questions %}
+
 [image-1]: {{ "/assets/img/2019-04-20-Phishingemail-1.png" | absolute_url }}
 [image-2]: {{ "/assets/img/2019-04-20-Phishingemail-2.jpg" | absolute_url }}
 [image-3]: {{ "/assets/img/2019-04-20-Phishingemail-3.jpg" | absolute_url }}
