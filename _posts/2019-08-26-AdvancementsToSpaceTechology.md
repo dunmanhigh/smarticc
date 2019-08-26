@@ -13,12 +13,14 @@ A number of different technologies are rising and currently, one of the most pro
 
 ## Uses of 3D Metal Printing for Space
 Designing durable hardware for space is a difficult and daunting task. Outer space requires function, performance and high precision, unlike anything required on Earth. With the help of metal additive manufacturing, engineers are now able to design and produce hardware that is able to overcome the challenges of outer space, with faster iterations and faster product development. 
+
 ![][image-1]
 ###### 3D Metal Printed Part
 
 ## Current Uses of 3D Metal Printing
 Recently, 3D metal printing was selected to manufacture flight hardware for Boom Supersonic's XB-1, a jet that was able to travel at 2715 kilometres per hour. Metal additive manufacturing allowed Boom to produce the necessary parts more efficiently, with increased precision and much freedom of design.
-![][image-2)
+
+![][image-2]
 ###### Boom Supersonic's XB-1
 
 ## Benefits of 3D printing
