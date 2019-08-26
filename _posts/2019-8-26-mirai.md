@@ -1,0 +1,44 @@
+---
+title: Mirai
+categories: article
+tags: technology
+author: Oon Zheng Kang, Shen Hanzhang, Chen Xinyi
+---
+
+## Origin
+Mirai is malware that infects smart devices that run on ARC processors, turning them into a network of remotely controlled bots or zombies. This network of bots, called a botnet, is often used to launch DDoS attacks.Malware, short for malicious software, is an umbrella term that includes computer worms, viruses, Trojan horses, rootkits and spyware. Who were the creators of the Mirai botnet? Twenty-one-year-old Paras Jha and twenty-year-old Josiah White co-founded Protraf Solutions, a company offering mitigation services for DDoS attacks. Theirs was a classic case of racketeering: Their business offered DDoS mitigation services to the very organizations their malware attacked.
+
+Then why is Mirai created? Mirai was originally developed to help corner the Minecraft market, but then they realized what a powerful tool they built. Then it just became a challenge for them to make it as large as possible. The creators of Mirai targeted French Internet provider OVH because it offered Minecraft DDoS mitigation tools and certain servers. “Why are these Minecraft servers getting hit so often?” FBI special agent Elliott Peterson remembers asking. 
+
+"The digital arms race in DDoS is inexorably linked to Minecraft,"  says FBI special agent Doug Klein. "You look at the servers—those guys are making huge money, so it’s in my benefit to knock your server offline and steal your customers. The vast majority of these Minecraft servers are being run by kids—you don’t necessarily have the astute business judgment in the quote-unquote ‘executives’ running these servers.”
+
+![][image-1]
+
+## Scale
+Mirai has infected multiple devices and has been used in multiple DDOS(Distributed Denial of Service) attacks. Over the years there have been numerous variations of Mirai and quite a few of them have been used in large scale attacks. An example is the 12 December 2017’s exploit of a flaw in the Huawei HG532 routers. 
+
+DDOS attacks are a type of attack which causes multiple systems to be infected with a programme which then targets an entire system, causing a DOS(Denial of Service) and brings a network to its knees by flooding it with useless traffic. An example of Mirai being used in a DDOS attack the DDoS attacks against Rutgers University from 2014 to 2016, which left both the staff and the students unable to access the outside Internet for several days at a time. Furthermore, a failure of the University's Central Authentication Service caused course registration and other services unavailable during critical times in the academic year. The university reportedly spent $300,000 in consultation and increased the cyber-security budget of the university by $1 million in response to these attacks, which shows how serious the attacks were.
+
+![][image-2]
+## Security
+By now, you would probably be thinking: would not there be a chance for me to be affected? Well, based on how fast such instances of malware can travel on the World Wide Web, the answer is yes. However, there are ways to eradicate if not temporarily such possibilities from the digital devices you use. As the idea that founded ‘Mirai’’s success was technically the exploitation of vulnerabilities in both the security of digital devices and internet channels, it can be easily solved by: 
+	Changing the administration details (username, password) of devices like routers and ip cameras from the factory defaults.
+	Resetting the device to factory state to clear any possible malware hosted in it.
+	Updating firmware to its latest versions (drivers, patches).
+	Disconnect possible vulnerable devices whose firmware has stopped updating for a significant amount of time and try and look for a newer replacement.
+
+It may be true that Mirai does not pose much of a risk to those affected as compared to the victims of those various incidents, but Mirai is not the only bot out there in the World Wide Web. There is bound to be similar software floating out there with a worse payload, that may pose significant risk to those affected. Thus, it is recommended to check out the current devices that your household use and put in place the necessary precautions in order to decrease possible damages that will occur from contact with such technologies.
+![][image-3]
+## Resources
+https://www.howtogeek.com/408036/what-is-the-mirai-botnet-and-how-can-i-protect-my-devices/
+https://www.corero.com/resources/ddos-attack-types/mirai-botnet-ddos-attack#targetText=The%20virus%20contains%20the%20attack,against%20one%20or%20more%20victims.
+https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/securing-routers-against-mirai-home-network-attacks
+
+## Notable reads
+	Internet of things
+	Dark Web (versus Deep Web)
+	Petya versus Not-Petya 
+
+[image-1]: {{ "/assets/img/2019-08-26-Mirai-1.jpg" | absolute_url }}
+[image-2]: {{ "/assets/img/2019-08-26-Mirai-2.png" | absolute_url }}
+[image-3]: {{ "/assets/img/2019-08-26-Mirai-3.png" | absolute_url }}
