@@ -18,7 +18,7 @@ questions:
 - question: "How do you think a foldable phone can be made?" # open-ended, no answers
 ---
 
-## **_In this article, we will be talking about foldable phones!_** 
+## _In this article, we will be talking about foldable phones!_ 
 
 ![][image-1] 
 
