@@ -36,5 +36,5 @@ Want to find out more about online ticketing systems? Visit the following links 
 
 
 
-[image-2]: {{ "/assests/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.JPG"}}
-[image-3]: {{ "/assests/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.JPG"}}
+[image-2]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.JPG"}}
+[image-3]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.JPG"}}
