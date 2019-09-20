@@ -1,4 +1,4 @@
-﻿---
+---
 title: Foldable Phones?
 categories: article
 tags: foldable samsung
