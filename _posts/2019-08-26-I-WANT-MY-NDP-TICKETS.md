@@ -35,6 +35,6 @@ Want to find out more about online ticketing systems? Visit the following links 
  + https://www.smartsheet.com/how-use-smartsheet-it-ticketing-system
 
 
-[image-2]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.JPG" | absolute_url }}
-[image-3]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.JPG" | absolute_url }}
+[image-2]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-2.jpg" | absolute_url }}
+[image-3]: {{ "/assets/img/2019-08-26-I-WANT-MY-NDP-TICKETS-3.jpg" | absolute_url }}
 
