@@ -66,6 +66,8 @@ This phone has been getting many positive reviews from users. Looks like Samsung
 3. [Samsung Galaxy Fold – The Official Samsung Galaxy Site](https://www.samsung.com/global/galaxy/galaxy-fold/)
 4. [Overview: FlexPai Foldable Smartphone - Royole Corporation](https://www.royole.com/en/flexpai)
 
+{% include quiz.html questions=page.questions %}
+
 [image-1]: {{ "/assets/img/2019-04-20-Foldablephones-1.jpg" | absolute_url }}
 [image-2]: {{ "/assets/img/2019-04-20-Foldablephones-2.jpg" | absolute_url }}
 [image-3]: {{ "/assets/img/2019-04-20-Foldablephones-3.jpg" | absolute_url }}
