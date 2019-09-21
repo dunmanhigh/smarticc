@@ -3,7 +3,7 @@ title: Driverless Cars
 categories: article
 tags: car
 author: Gabrielle, Junzhe and Cayden
-image:"/assets/img/2019-08-26-driverlesscar-preview.jpeg"
+image: "/assets/img/2019-08-26-driverlesscar-preview.jpeg"
 ---
 
 ####We have probably all heard of driverless cars before and might feel that this is old news. But we seldom encounter or use them in their daily lives. Hence, one may think, do driverless cars really not have drivers? Because if so, how exactly do these cars work?
