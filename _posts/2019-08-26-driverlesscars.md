@@ -36,6 +36,7 @@ Here are more links if you would like to know more:
 [https://asia.nikkei.com/Spotlight/Startups-in-Asia/Professor-X-readies-self-drive-cars-for-China-s-busy-streets](https://www.engadget.com/2019/07/28/waymo-evolutionary-competition-self-driving-cars/)
 
 
+
 [image-1]:{{ "/assets/img/2019-08-26-driverlesscar-1.png" | absolute_url}}
 [image-2]:{{ "/assets/img/2019-08-26-driverlesscar-2.jpg" | absolute_url}}
 [image-3]:{{ "/assets/img/2019-08-26-driverlesscar-3.png" | absolute_url}}
