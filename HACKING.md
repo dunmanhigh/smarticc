@@ -101,4 +101,7 @@ The details for the iteration used on the index page can be found in `/tag.html`
 ## One last thing
 This probably isn't the best structure ever for a Jekyll site; feel free to make changes to how the site works, but be sure to update this document if anything here becomes out-of-date with your changes.
 
+## Troubleshooting
+If your local version of the site does not show new articles, you can delete the \_site folder and restart the server to let it rebuild the site
+
 If you run into issues, the [Jekyll docs](https://jekyllrb.com/docs) is a good place to start. Be sure to check out the [Liquid docs](https://shopify.github.io/liquid/) if you're doing templating.
