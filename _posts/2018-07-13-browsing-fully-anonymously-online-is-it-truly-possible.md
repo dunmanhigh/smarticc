@@ -17,7 +17,7 @@ Have you ever went to a website, and there’s a popup asking you to “accept c
 
 ![][image-2]
 
-# Using DuckDuckGo: 
+## Using DuckDuckGo: 
 DuckDuckGo is an Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo distinguishes itself by not profiling its users and deliberately showing all users the same search results for a given search term, and emphasises on returning the best results rather than the most results, generating the results from over 400 individual sources. Some of the differences between DuckDuckGo and a popular search engine such as Google are as such:
 
 | Google | DuckDuckGo |
@@ -30,7 +30,7 @@ DuckDuckGo is an Internet search engine that emphasizes protecting searchers' pr
 
 ![][image-3]
 
-# Using Tor
+## Using Tor
 
 Tor is software for enabling anonymous communication; the difference between this and DuckDuckGo in terms of use is that it allows users to access special, hidden networks on the dark web. These networks end with a .onion, and cannot be accessed with regular search engines (requires Tor browser).
 Tor users use Tor for many reasons. Some use Tor not to access the dark web, but rather to simply browse anonymity, and to protect their own privacy. Other use Tor for more clandestine operations, such as supposed hitmen-for-hire webs, illicit content, and to sell drugs illegally (and do note it is not limited to these). However, also note that we are not encouraging such activities, and anything you decide to do in Tor is at your own risk, and we will not take any responsibilities for anything you do :)

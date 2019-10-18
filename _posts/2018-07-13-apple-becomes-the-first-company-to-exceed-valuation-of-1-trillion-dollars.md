@@ -1,7 +1,7 @@
-﻿---
+---
 title: Apple becomes the first company to exceed valuation of 1 trillion dollars
 categories: article
-tags: finance tech
+tags: tech finance news
 author: Ong Teng Wee
 image: "/assets/img/2018-07-13-apple-becomes-the-first-company-to-exceed-valuation-of-1-trillion-dollars-preview.png"
 ---

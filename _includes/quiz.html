@@ -1,0 +1,190 @@
+<div id="auth">
+    <h2>Before doing the quiz, please sign in with your DHS account.</h2>
+    <div id="auth__signin-button">Sign In</div>
+</div>
+
+<div id="quiz" class="quiz hidden">
+    <div id="quiz__completed"></div>
+    <!-- anyone looking for the answers in here: https://bit.ly/2hDYrHq -->
+    <div id="quiz__in-progress">
+        {% for question in include.questions %}
+        <div class="quiz__question">
+            <h2>{{ question.question }}</h2>
+            <div class="quiz__answer-list">
+                {% if question.answer %}
+                    {% for answer in question.answer %}
+                    <div class="quiz__answer" data-correct="{{ answer.correct }}" onclick="handleClick(this)">{{ answer.text }}</div>
+                    {% endfor %}
+                {% else %}
+                    <input class="quiz__answer quiz__answer--openend" type="text" placeholder="Your answer here...">
+                    <div class="quiz__answer quiz__answer--openend-submit">Submit</div>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div id="quiz__finale">
+        <h2>You've finished the quiz!</h2>
+        <p>You scored <span id="quiz__finale__score"></span> out of {{ include.questions | where_exp: "question", "question.answer" | size }}.</p>
+    </div>
+</div>
+
+
+
+<!-- Base Firebase app script -->
+<script src="https://www.gstatic.com/firebasejs/5.5.8/firebase-app.js"></script>
+<!-- Additional services -->
+<script src="https://www.gstatic.com/firebasejs/5.5.8/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.5.8/firebase-database.js"></script>
+
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBB5npGlGXW_pY3Rs3PMwaDXcYoRCfEC3s",
+    authDomain: "smarticc-quiz.firebaseapp.com",
+    databaseURL: "https://smarticc-quiz.firebaseio.com",
+    projectId: "smarticc-quiz",
+    storageBucket: "smarticc-quiz.appspot.com",
+    messagingSenderId: "450630087576"
+  };
+  firebase.initializeApp(config);
+</script>
+
+<script type="text/javascript">
+/*======================================
+=            Authentication            =
+========================================*/
+let provider = new firebase.auth.GoogleAuthProvider();
+let user = {}
+
+$("#auth__signin-button").addEventListener('click', function(e) {
+    e.target.textContent = "Loading..."
+    firebase.auth().signInWithRedirect(provider);
+});
+
+firebase.auth().getRedirectResult().then(function(res) {
+    user = res.user;
+    if (res.user) {
+        if (res.user.email.match(/@dhs.sg$/)) {
+            $('#quiz').classList.remove("hidden");
+            $('#auth').classList.add("hidden");
+            $('#quiz').scrollIntoView();
+        } else {
+            $('#auth h2').textContent = "Please use your DHS account to sign in again."
+            $("#auth").scrollIntoView();
+        }
+    }
+})
+
+
+// sorry for the shitty dom traversal
+// i was too lazy to include a view framework
+
+let result = {
+    openEndedResponses: [],
+    score: 0,
+    email: "",
+    name: ""
+};
+
+// fake jquery
+function $(selector) {
+    return document.querySelector(selector);
+}
+
+// disable clicks on done questions
+$('#quiz__completed').addEventListener('click', function(e) {
+    e.stopPropagation();
+    e.preventDefault();
+}, true); // true: execute the handler before propagating
+
+function disableQuestion(answerElement) {
+    $("#quiz__completed").appendChild(answerElement.parentNode.parentNode);
+}
+
+/*----------  MCQs  ----------*/
+// given a MULTIPLE CHOICE .quiz__answer element, check if answer is correct and set appropriate color
+// also, if wrong, look for the correct answer and highlight that
+function checkAnswer(answerElement) {
+    // note that data attributes return strings.
+    if (answerElement.dataset.correct === "true") {
+        answerElement.classList.add('quiz__answer--correct');
+        result.score++;
+    } else {
+        answerElement.classList.add('quiz__answer--wrong');
+        // look through siblings and look for correct one
+        let siblings = answerElement.parentNode.getElementsByTagName('div');
+
+        for (let i = 0; i < siblings.length; i++) {
+            if (siblings[i].dataset.correct === "true") {
+                siblings[i].classList.add('quiz__answer--correct');
+            }
+        }
+    }
+}
+
+// handler for when an MCQ answer is selected.
+function handleClick(element) {
+    checkAnswer(element);
+    setTimeout(function() {
+        disableQuestion(element);
+        finishUp();
+    }, 1000);
+}
+
+$('.quiz__answer').addEventListener('click', function(e) {
+    handleClick(e.target)    
+}); 
+
+/*----------  Open-ended  ----------*/
+
+// given an OPEN ENDED .quiz__answer--openend input, add an answer object to result,
+// then disable the question
+function handleOpenQuestion(answerElement){
+    let answer = answerElement.value;
+    // the question h2 is answerElement's parent's sibling.
+    let question = answerElement.parentNode.parentNode.getElementsByTagName('h2')[0].textContent;
+    result.openEndedResponses.push({ question: question, answer: answer });
+    disableQuestion(answerElement);
+    finishUp();
+    if ($('#quiz__in-progress').children.length === 0) {
+        $('#quiz__finale').style.display = 'block';
+        $('#quiz__finale__score').textContent = result.score;
+    } 
+}
+
+// handle clicking "submit"
+$('.quiz__answer--openend-submit').addEventListener('click', function(e) {
+    // the input element is siblings with the submit button
+    let answerElement = e.target.parentNode.getElementsByTagName('input')[0];
+    handleOpenQuestion(answerElement);
+});
+
+// handle pressing enter on the text box
+$('.quiz__answer--openend').addEventListener('keyup', function(e) {
+    if (e.keyCode == 13) { handleOpenQuestion(e.target); }
+});
+
+/*================================================
+=            After everything is done            =
+================================================*/
+// handle showing scores and pushing to db after finishing the quiz.
+function finishUp() {
+    if ($('#quiz__in-progress').children.length === 0) {
+        $('#quiz__finale').style.display = 'block';
+        $('#quiz__finale__score').textContent = result.score;
+
+        // gather name and email for record
+        result.email = user.email;
+        result.name = user.displayName;
+
+        // generate the ref to keep results in from the url
+        let keyToPush = window.location.pathname.replace(/^\/smarticc\//, "").replace(/\//g, "-")
+        let ref = firebase.database().ref(keyToPush);
+        ref.push(result);
+    }
+}
+
+
+</script>
